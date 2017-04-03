@@ -3,8 +3,8 @@
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26">├── ember-cli-string-utils@1.1.0</tspan>
 <tspan x="10" y="42">├── ember-cli-normalize-entity-name@1.0.0</tspan>
-<tspan x="10" y="58">├── json-loader@0.5.4</tspan>
-<tspan x="10" y="74">├── raw-loader@0.5.1</tspan>
+<tspan x="10" y="58">├── raw-loader@0.5.1</tspan>
+<tspan x="10" y="74">├── json-loader@0.5.4</tspan>
 <tspan x="10" y="90">├── get-caller-file@1.0.2</tspan>
 <tspan x="10" y="106">├── silent-error@1.0.1</tspan>
 <tspan x="10" y="122">├── script-loader@0.7.0</tspan>
@@ -22,16 +22,16 @@
 <tspan x="10" y="314">├── karma-sourcemap-loader@0.3.7 (graceful-fs@4.1.11)</tspan>
 <tspan x="10" y="330">├── nopt@3.0.6 (abbrev@1.1.0)</tspan>
 <tspan x="10" y="346">├── @ngtools/json-schema@1.0.8</tspan>
-<tspan x="10" y="362">├── chalk@1.1.3 (escape-string-regexp@1.0.5, ansi-styles@2.2.1, supports-color@2.0.0, strip-ansi\</tspan>
-<tspan x="10" y="378">@3.0.1, has-ansi@2.0.0)</tspan>
-<tspan x="10" y="394">├── debug@2.6.3 (ms@0.7.2)</tspan>
+<tspan x="10" y="362">├── debug@2.6.3 (ms@0.7.2)</tspan>
+<tspan x="10" y="378">├── chalk@1.1.3 (escape-string-regexp@1.0.5, ansi-styles@2.2.1, supports-color@2.0.0, has-ansi@2\</tspan>
+<tspan x="10" y="394">.0.0, strip-ansi@3.0.1)</tspan>
 <tspan x="10" y="410">├── diff@2.2.3</tspan>
 <tspan x="10" y="426">├── temp@0.8.3 (os-tmpdir@1.0.2, rimraf@2.2.8)</tspan>
 <tspan x="10" y="442">├── findup@0.1.5 (commander@2.1.0, colors@0.6.2)</tspan>
 <tspan x="10" y="458">├── opn@4.0.1 (object-assign@4.1.1, pinkie-promise@2.0.1)</tspan>
 <tspan x="10" y="474">├── minimatch@3.0.3 (brace-expansion@1.1.6)</tspan>
-<tspan x="10" y="490">├── glob@7.1.1 (path-is-absolute@1.0.1, inherits@2.0.3, fs.realpath@1.0.0, once@1.4.0, inflight@\</tspan>
-<tspan x="10" y="506">1.0.6)</tspan>
+<tspan x="10" y="490">├── glob@7.1.1 (path-is-absolute@1.0.1, inherits@2.0.3, fs.realpath@1.0.0, inflight@1.0.6, once@\</tspan>
+<tspan x="10" y="506">1.4.0)</tspan>
 <tspan x="10" y="522">├── file-loader@0.8.5 (loader-utils@0.2.17)</tspan>
 <tspan x="10" y="538">├── sass-loader@4.1.1 (object-assign@4.1.1, loader-utils@0.2.17)</tspan>
 <tspan x="10" y="554">├── rsvp@3.5.0</tspan>
@@ -59,8 +59,8 @@
 <tspan x="10" y="906">resolve@3.1.0)</tspan>
 <tspan x="10" y="922">├── extract-text-webpack-plugin@2.1.0 (loader-utils@1.1.0, ajv@4.11.5)</tspan>
 <tspan x="10" y="938">├── webpack-dev-server@2.2.0-rc.0 (connect-history-api-fallback@1.3.0, strip-ansi@3.0.1, support\</tspan>
-<tspan x="10" y="954">s-color@3.2.3, opn@4.0.2, compression@1.6.2, webpack-dev-middleware@1.10.1, express@4.15.2, http\</tspan>
-<tspan x="10" y="970">-proxy-middleware@0.17.4, spdy@3.4.4, chokidar@1.6.1, sockjs@0.3.18, serve-index@1.8.0, sockjs-c\</tspan>
+<tspan x="10" y="954">s-color@3.2.3, opn@4.0.2, compression@1.6.2, webpack-dev-middleware@1.10.1, express@4.15.2, spdy\</tspan>
+<tspan x="10" y="970">@3.4.4, http-proxy-middleware@0.17.4, chokidar@1.6.1, sockjs@0.3.18, serve-index@1.8.0, sockjs-c\</tspan>
 <tspan x="10" y="986">lient@1.1.1, yargs@6.6.0)</tspan>
 <tspan x="10" y="1002">├── stylus@0.54.5 (css-parse@1.7.0, glob@7.0.6, mkdirp@0.5.1, source-map@0.1.43, sax@0.5.8)</tspan>
 <tspan x="10" y="1018">├── html-webpack-plugin@2.28.0 (toposort@1.0.3, loader-utils@0.2.17, bluebird@3.5.0, html-minifi\</tspan>
@@ -84,8 +84,8 @@
 <tspan x="10" y="1306">css-merge-idents@2.1.7, postcss-minify-gradients@1.0.5, postcss-reduce-initial@1.0.1, postcss-co\</tspan>
 <tspan x="10" y="1322">nvert-values@2.6.1, postcss-discard-comments@2.0.4, defined@1.0.0, postcss-value-parser@3.3.0, p\</tspan>
 <tspan x="10" y="1338">ostcss-minify-font-values@1.0.5, postcss-discard-overridden@0.1.1, postcss-reduce-idents@2.4.0, \</tspan>
-<tspan x="10" y="1354">postcss-ordered-values@2.2.3, postcss-discard-unused@2.2.3, postcss-zindex@2.2.0, postcss-unique\</tspan>
-<tspan x="10" y="1370">-selectors@2.0.2, postcss-minify-params@1.2.2, postcss-merge-longhand@2.0.2, has@1.0.1, postcss-\</tspan>
+<tspan x="10" y="1354">postcss-ordered-values@2.2.3, postcss-discard-unused@2.2.3, postcss-zindex@2.2.0, postcss-minify\</tspan>
+<tspan x="10" y="1370">-params@1.2.2, postcss-unique-selectors@2.0.2, postcss-merge-longhand@2.0.2, has@1.0.1, postcss-\</tspan>
 <tspan x="10" y="1386">filter-plugins@2.0.2, postcss-calc@5.3.1, postcss-normalize-url@3.0.8, postcss-minify-selectors@\</tspan>
 <tspan x="10" y="1402">2.1.1, postcss-colormin@2.2.2, postcss@5.2.16, postcss-svgo@2.1.6, postcss-merge-rules@2.1.2)</tspan>
 <tspan x="10" y="1418">├── autoprefixer@6.7.7 (normalize-range@0.1.2, num2fraction@1.2.2, postcss-value-parser@3.3.0, b\</tspan>
