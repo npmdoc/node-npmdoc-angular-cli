@@ -1,0 +1,2323 @@
+<div class="apidocDiv">
+<style>
+/*csslint
+*/
+.apidocDiv {
+    background: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.apidocDiv a[href] {
+    color: #33f;
+    font-weight: bold;
+    text-decoration: none;
+}
+.apidocDiv a[href]:hover {
+    text-decoration: underline;
+}
+.apidocCodeCommentSpan {
+    background: #bbf;
+    color: #000;
+    display: block;
+}
+.apidocCodeKeywordSpan {
+    color: #d00;
+    font-weight: bold;
+}
+.apidocCodePre {
+    background: #eef;
+    border: 1px solid;
+    color: #777;
+    padding: 5px;
+    white-space: pre-wrap;
+}
+.apidocFooterDiv {
+    margin-top: 20px;
+    text-align: center;
+}
+.apidocModuleLi {
+    margin-top: 10px;
+}
+.apidocSectionDiv {
+    border-top: 1px solid;
+    margin-top: 20px;
+}
+.apidocSignatureSpan {
+    color: #777;
+    font-weight: bold;
+}
+</style>
+<h1>api documentation for
+    <a
+
+        href="https://github.com/angular/angular-cli"
+
+    >angular-cli (v1.0.0-beta.28.3)</a>
+</h1>
+<h4>CLI tool for Angular</h4>
+<div class="apidocSectionDiv"><a
+    href="#apidoc.tableOfContents"
+    id="apidoc.tableOfContents"
+><h1>table of contents</h1></a><ol>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli">module angular-cli</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.git_init">
+            function <span class="apidocSignatureSpan">angular-cli.</span>git_init
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>completion</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>config</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>create_github_repo</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>destroy</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>doc</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>e2e</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>easter_egg</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>error</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>find_parent_module</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>generate</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>get</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>get_dependent_files</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>git_init.prototype</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>github_pages_deploy</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>github_pages_deploy_run</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>glob_copy_webpack_plugin</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>help</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>init</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>init_run</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>lint</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>new</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>npm_install</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>package_chunk_sort</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>prerender_webpack_plugin</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>require_project_module</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>serve</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>serve_run</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>set</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>suppress_entry_chunks_webpack_plugin</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>version</span>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.</span>webpack_config</span>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.completion">module angular-cli.completion</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.completion.default">
+            function <span class="apidocSignatureSpan">angular-cli.completion.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.config">module angular-cli.config</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.config.CliConfig">
+            function <span class="apidocSignatureSpan">angular-cli.config.</span>CliConfig
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">string <span class="apidocSignatureSpan">angular-cli.config.</span>CLI_CONFIG_FILE_NAME</span>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.create_github_repo">module angular-cli.create_github_repo</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.create_github_repo.default">
+            function <span class="apidocSignatureSpan">angular-cli.create_github_repo.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.destroy">module angular-cli.destroy</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.destroy.default">
+            function <span class="apidocSignatureSpan">angular-cli.destroy.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.doc">module angular-cli.doc</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.doc.default">
+            function <span class="apidocSignatureSpan">angular-cli.doc.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.e2e">module angular-cli.e2e</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.e2e.default">
+            function <span class="apidocSignatureSpan">angular-cli.e2e.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.easter_egg">module angular-cli.easter_egg</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.easter_egg.default">
+            function <span class="apidocSignatureSpan">angular-cli.easter_egg.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.error">module angular-cli.error</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.error.NgToolkitError">
+            function <span class="apidocSignatureSpan">angular-cli.error.</span>NgToolkitError
+            <span class="apidocSignatureSpan">(message)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.find_parent_module">module angular-cli.find_parent_module</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.find_parent_module.default">
+            function <span class="apidocSignatureSpan">angular-cli.find_parent_module.</span>default
+            <span class="apidocSignatureSpan">(project, currentDir)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.generate">module angular-cli.generate</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.generate.default">
+            function <span class="apidocSignatureSpan">angular-cli.generate.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.get">module angular-cli.get</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.get.default">
+            function <span class="apidocSignatureSpan">angular-cli.get.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.get_dependent_files">module angular-cli.get_dependent_files</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.get_dependent_files.createTsSourceFile">
+            function <span class="apidocSignatureSpan">angular-cli.get_dependent_files.</span>createTsSourceFile
+            <span class="apidocSignatureSpan">(fileName)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.get_dependent_files.getAllAssociatedFiles">
+            function <span class="apidocSignatureSpan">angular-cli.get_dependent_files.</span>getAllAssociatedFiles
+            <span class="apidocSignatureSpan">(fileName)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.get_dependent_files.getDependentFiles">
+            function <span class="apidocSignatureSpan">angular-cli.get_dependent_files.</span>getDependentFiles
+            <span class="apidocSignatureSpan">(fileName, rootPath)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.get_dependent_files.getImportClauses">
+            function <span class="apidocSignatureSpan">angular-cli.get_dependent_files.</span>getImportClauses
+            <span class="apidocSignatureSpan">(node)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.get_dependent_files.hasIndexFile">
+            function <span class="apidocSignatureSpan">angular-cli.get_dependent_files.</span>hasIndexFile
+            <span class="apidocSignatureSpan">(dirPath)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.git_init">module angular-cli.git_init</a><ol>
+
+        <li>
+
+            <span class="apidocSignatureSpan">boolean <span class="apidocSignatureSpan">angular-cli.git_init.</span>overrideCore</span>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.git_init.git_init">
+            function <span class="apidocSignatureSpan">angular-cli.</span>git_init
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.git_init.prototype">module angular-cli.git_init.prototype</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.git_init.prototype.constructor">
+            function <span class="apidocSignatureSpan">angular-cli.git_init.prototype.</span>constructor
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.git_init.prototype.run">
+            function <span class="apidocSignatureSpan">angular-cli.git_init.prototype.</span>run
+            <span class="apidocSignatureSpan">(commandOptions)</span>
+            </a>
+
+        </li>
+
+        <li>
+
+            <span class="apidocSignatureSpan">object <span class="apidocSignatureSpan">angular-cli.git_init.prototype.</span>_super</span>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.github_pages_deploy">module angular-cli.github_pages_deploy</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.github_pages_deploy.default">
+            function <span class="apidocSignatureSpan">angular-cli.github_pages_deploy.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.github_pages_deploy_run">module angular-cli.github_pages_deploy_run</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.github_pages_deploy_run.default">
+            function <span class="apidocSignatureSpan">angular-cli.github_pages_deploy_run.</span>default
+            <span class="apidocSignatureSpan">(options, rawArgs)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.glob_copy_webpack_plugin">module angular-cli.glob_copy_webpack_plugin</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.glob_copy_webpack_plugin.GlobCopyWebpackPlugin">
+            function <span class="apidocSignatureSpan">angular-cli.glob_copy_webpack_plugin.</span>GlobCopyWebpackPlugin
+            <span class="apidocSignatureSpan">(options)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.help">module angular-cli.help</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.help.default">
+            function <span class="apidocSignatureSpan">angular-cli.help.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.init">module angular-cli.init</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.init.default">
+            function <span class="apidocSignatureSpan">angular-cli.init.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.init_run">module angular-cli.init_run</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.init_run.default">
+            function <span class="apidocSignatureSpan">angular-cli.init_run.</span>default
+            <span class="apidocSignatureSpan">(commandOptions, rawArgs)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.lint">module angular-cli.lint</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.lint.default">
+            function <span class="apidocSignatureSpan">angular-cli.lint.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.new">module angular-cli.new</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.new.default">
+            function <span class="apidocSignatureSpan">angular-cli.new.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.npm_install">module angular-cli.npm_install</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.npm_install.default">
+            function <span class="apidocSignatureSpan">angular-cli.npm_install.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.package_chunk_sort">module angular-cli.package_chunk_sort</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.package_chunk_sort.packageChunkSort">
+            function <span class="apidocSignatureSpan">angular-cli.package_chunk_sort.</span>packageChunkSort
+            <span class="apidocSignatureSpan">(appConfig)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.prerender_webpack_plugin">module angular-cli.prerender_webpack_plugin</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.prerender_webpack_plugin.PrerenderWebpackPlugin">
+            function <span class="apidocSignatureSpan">angular-cli.prerender_webpack_plugin.</span>PrerenderWebpackPlugin
+            <span class="apidocSignatureSpan">(options)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.require_project_module">module angular-cli.require_project_module</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.require_project_module.requireDependency">
+            function <span class="apidocSignatureSpan">angular-cli.require_project_module.</span>requireDependency
+            <span class="apidocSignatureSpan">(root, moduleName)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.serve">module angular-cli.serve</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.serve.default">
+            function <span class="apidocSignatureSpan">angular-cli.serve.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.serve_run">module angular-cli.serve_run</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.serve_run.default">
+            function <span class="apidocSignatureSpan">angular-cli.serve_run.</span>default
+            <span class="apidocSignatureSpan">(commandOptions)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.set">module angular-cli.set</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.set.default">
+            function <span class="apidocSignatureSpan">angular-cli.set.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.suppress_entry_chunks_webpack_plugin">module angular-cli.suppress_entry_chunks_webpack_plugin</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.suppress_entry_chunks_webpack_plugin.SuppressExtractedTextChunksWebpackPlugin">
+            function <span class="apidocSignatureSpan">angular-cli.suppress_entry_chunks_webpack_plugin.</span>SuppressExtractedTextChunksWebpackPlugin
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.version">module angular-cli.version</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.version.default">
+            function <span class="apidocSignatureSpan">angular-cli.version.</span>default
+            <span class="apidocSignatureSpan">()</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+    <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli.webpack_config">module angular-cli.webpack_config</a><ol>
+
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.angular-cli.webpack_config.NgCliWebpackConfig">
+            function <span class="apidocSignatureSpan">angular-cli.webpack_config.</span>NgCliWebpackConfig
+            <span class="apidocSignatureSpan">(buildOptions)</span>
+            </a>
+
+        </li>
+
+    </ol></li>
+
+</ol></div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli" id="apidoc.module.angular-cli">module angular-cli</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.git_init" id="apidoc.element.angular-cli.git_init">
+        function <span class="apidocSignatureSpan">angular-cli.</span>git_init
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.completion" id="apidoc.module.angular-cli.completion">module angular-cli.completion</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.completion.default" id="apidoc.element.angular-cli.completion.default">
+        function <span class="apidocSignatureSpan">angular-cli.completion.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.config" id="apidoc.module.angular-cli.config">module angular-cli.config</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.config.CliConfig" id="apidoc.element.angular-cli.config.CliConfig">
+        function <span class="apidocSignatureSpan">angular-cli.config.</span>CliConfig
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function CliConfig() {
+    _super.apply(this, arguments);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.create_github_repo" id="apidoc.module.angular-cli.create_github_repo">module angular-cli.create_github_repo</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.create_github_repo.default" id="apidoc.element.angular-cli.create_github_repo.default">
+        function <span class="apidocSignatureSpan">angular-cli.create_github_repo.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.destroy" id="apidoc.module.angular-cli.destroy">module angular-cli.destroy</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.destroy.default" id="apidoc.element.angular-cli.destroy.default">
+        function <span class="apidocSignatureSpan">angular-cli.destroy.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.doc" id="apidoc.module.angular-cli.doc">module angular-cli.doc</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.doc.default" id="apidoc.element.angular-cli.doc.default">
+        function <span class="apidocSignatureSpan">angular-cli.doc.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.e2e" id="apidoc.module.angular-cli.e2e">module angular-cli.e2e</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.e2e.default" id="apidoc.element.angular-cli.e2e.default">
+        function <span class="apidocSignatureSpan">angular-cli.e2e.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.easter_egg" id="apidoc.module.angular-cli.easter_egg">module angular-cli.easter_egg</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.easter_egg.default" id="apidoc.element.angular-cli.easter_egg.default">
+        function <span class="apidocSignatureSpan">angular-cli.easter_egg.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.error" id="apidoc.module.angular-cli.error">module angular-cli.error</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.error.NgToolkitError" id="apidoc.element.angular-cli.error.NgToolkitError">
+        function <span class="apidocSignatureSpan">angular-cli.error.</span>NgToolkitError
+        <span class="apidocSignatureSpan">(message)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function NgToolkitError(message) {
+    _super.call(this);
+    if (message) {
+        this.message = message;
+    }
+    else {
+        this.message = this.constructor.name;
+    }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.find_parent_module" id="apidoc.module.angular-cli.find_parent_module">module angular-cli.find_parent_module</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.find_parent_module.default" id="apidoc.element.angular-cli.find_parent_module.default">
+        function <span class="apidocSignatureSpan">angular-cli.find_parent_module.</span>default
+        <span class="apidocSignatureSpan">(project, currentDir)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function findParentModule(project, currentDir) {
+    var sourceRoot = path.join(project.root, project.ngConfig.apps[0].root, &#x27;app&#x27;);
+    // trim currentDir
+    currentDir = currentDir.replace(path.join(project.ngConfig.apps[0].root, &#x27;app&#x27;), &#x27;&#x27;);
+    var pathToCheck = path.join(sourceRoot, currentDir);
+    while (pathToCheck.length &#x3e;= sourceRoot.length) {
+        // TODO: refactor to not be based upon file name
+        var files = fs.readdirSync(pathToCheck)
+            .filter(function (fileName) { return !fileName.endsWith(&#x27;routing.module.ts&#x27;); })
+            .filter(function (fileName) { return fileName.endsWith(&#x27;.module.ts&#x27;); })
+            .filter(function (fileName) { return fs.statSync(path.join(pathToCheck, fileName)).isFile(); });
+        if (files.length === 1) {
+            return path.join(pathToCheck, files[0]);
+        }
+        else if (files.length &#x3e; 1) {
+            throw new SilentError(&#x22;Multiple module files found: &#x22; + pathToCheck.replace(sourceRoot, &#x27;&#x27;));
+        }
+        // move to parent directory
+        pathToCheck = path.dirname(pathToCheck);
+    }
+    throw new SilentError(&#x27;No module files found&#x27;);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.generate" id="apidoc.module.angular-cli.generate">module angular-cli.generate</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.generate.default" id="apidoc.element.angular-cli.generate.default">
+        function <span class="apidocSignatureSpan">angular-cli.generate.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.get" id="apidoc.module.angular-cli.get">module angular-cli.get</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.get.default" id="apidoc.element.angular-cli.get.default">
+        function <span class="apidocSignatureSpan">angular-cli.get.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.get_dependent_files" id="apidoc.module.angular-cli.get_dependent_files">module angular-cli.get_dependent_files</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.get_dependent_files.createTsSourceFile" id="apidoc.element.angular-cli.get_dependent_files.createTsSourceFile">
+        function <span class="apidocSignatureSpan">angular-cli.get_dependent_files.</span>createTsSourceFile
+        <span class="apidocSignatureSpan">(fileName)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function createTsSourceFile(fileName) {
+    return readFile(fileName, &#x27;utf8&#x27;)
+        .then(function (contents) {
+        return ts.createSourceFile(fileName, contents, ts.ScriptTarget.Latest, true);
+    });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.get_dependent_files.getAllAssociatedFiles" id="apidoc.element.angular-cli.get_dependent_files.getAllAssociatedFiles">
+        function <span class="apidocSignatureSpan">angular-cli.get_dependent_files.</span>getAllAssociatedFiles
+        <span class="apidocSignatureSpan">(fileName)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function getAllAssociatedFiles(fileName) {
+    var fileDirName = path.dirname(fileName);
+    var componentName = path.basename(fileName, &#x27;.ts&#x27;);
+    return globSearch(path.join(fileDirName, componentName + &#x22;.*&#x22;), { nodir: true })
+        .then(function (files) {
+        return files.filter(function (file) {
+            return (path.basename(file) !== &#x27;index.ts&#x27;);
+        });
+    });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.get_dependent_files.getDependentFiles" id="apidoc.element.angular-cli.get_dependent_files.getDependentFiles">
+        function <span class="apidocSignatureSpan">angular-cli.get_dependent_files.</span>getDependentFiles
+        <span class="apidocSignatureSpan">(fileName, rootPath)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function getDependentFiles(fileName, rootPath) {
+    return globSearch(path.join(rootPath, &#x27;**/*.ts&#x27;), { nodir: true })
+        .then(function (files) { return Promise.all(files.map(function (file) { return createTsSourceFile(file); }))
+        .then(function (tsFiles) { return tsFiles.map(function (file) { return getImportClauses(file); }); })
+        .then(function (moduleSpecifiers) {
+        var allFiles = {};
+        files.forEach(function (file, index) {
+            var sourcePath = path.normalize(file);
+            allFiles[sourcePath] = moduleSpecifiers[index];
+        });
+        return allFiles;
+    })
+        .then(function (allFiles) {
+        var relevantFiles = {};
+        Object.keys(allFiles).forEach(function (filePath) {
+            var tempModuleSpecifiers = allFiles[filePath]
+                .filter(function (importClause) {
+                // Filter only relative imports
+                var singleSlash = importClause.specifierText.charAt(0) === &#x27;/&#x27;;
+                var currentDirSyntax = importClause.specifierText.slice(0, 2) === &#x27;./&#x27;;
+                var parentDirSyntax = importClause.specifierText.slice(0, 3) === &#x27;../&#x27;;
+                return singleSlash || currentDirSyntax || parentDirSyntax;
+            })
+                .filter(function (importClause) {
+                var modulePath = path.resolve(path.dirname(filePath), importClause.specifierText);
+                var resolvedFileName = path.resolve(fileName);
+                var fileBaseName = path.basename(resolvedFileName, &#x27;.ts&#x27;);
+                var parsedFilePath = path.join(path.dirname(resolvedFileName), fileBaseName);
+                return (parsedFilePath === modulePath) || (resolvedFileName === modulePath);
+            });
+            if (tempModuleSpecifiers.length &#x3e; 0) {
+                relevantFiles[filePath] = tempModuleSpecifiers;
+            }
+            ;
+        });
+        return relevantFiles;
+    }); });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.get_dependent_files.getImportClauses" id="apidoc.element.angular-cli.get_dependent_files.getImportClauses">
+        function <span class="apidocSignatureSpan">angular-cli.get_dependent_files.</span>getImportClauses
+        <span class="apidocSignatureSpan">(node)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function getImportClauses(node) {
+    return node.statements
+        .filter(function (node) { return node.kind === ts.SyntaxKind.ImportDeclaration; }) // Only Imports.
+        .map(function (node) {
+        var moduleSpecifier = node.moduleSpecifier;
+        return {
+            specifierText: moduleSpecifier.getText().slice(1, -1),
+            pos: moduleSpecifier.pos,
+            end: moduleSpecifier.end
+        };
+    });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.get_dependent_files.hasIndexFile" id="apidoc.element.angular-cli.get_dependent_files.hasIndexFile">
+        function <span class="apidocSignatureSpan">angular-cli.get_dependent_files.</span>hasIndexFile
+        <span class="apidocSignatureSpan">(dirPath)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function hasIndexFile(dirPath) {
+    return globSearch(path.join(dirPath, &#x27;index.ts&#x27;), { nodir: true })
+        .then(function (indexFile) {
+        return indexFile.length &#x3e; 0;
+    });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.git_init" id="apidoc.module.angular-cli.git_init">module angular-cli.git_init</a></h1>
+
+
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.git_init.git_init" id="apidoc.element.angular-cli.git_init.git_init">
+        function <span class="apidocSignatureSpan">angular-cli.</span>git_init
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.git_init.prototype" id="apidoc.module.angular-cli.git_init.prototype">module angular-cli.git_init.prototype</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.git_init.prototype.constructor" id="apidoc.element.angular-cli.git_init.prototype.constructor">
+        function <span class="apidocSignatureSpan">angular-cli.git_init.prototype.</span>constructor
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.git_init.prototype.run" id="apidoc.element.angular-cli.git_init.prototype.run">
+        function <span class="apidocSignatureSpan">angular-cli.git_init.prototype.</span>run
+        <span class="apidocSignatureSpan">(commandOptions)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">run = function (commandOptions) {
+  var chalk = require(&#x27;chalk&#x27;);
+  var ui = this.ui;
+
+  if (commandOptions.skipGit) {
+    return Promise.resolve();
+  }
+
+  return exec(&#x27;git --version&#x27;)
+    .then(function () {
+      // check if we&#x27;re inside a git repo
+      return exec(&#x27;git rev-parse --is-inside-work-tree&#x27;)
+        .then(function () {
+          return true;
+        })
+        .catch(function() {
+          return false;
+        })
+    })
+    .then(function (insideGitRepo) {
+      if (insideGitRepo) {
+        return ui.writeLine(&#x27;Directory is already under version control. Skipping initialization of git.&#x27;);
+      }
+      return exec(&#x27;git init&#x27;)
+        .then(function () {
+          return exec(&#x27;git add .&#x27;);
+        })
+        .then(function () {
+          if (!commandOptions.skipCommit) {
+            var commitTemplate = fs.readFileSync(
+              path.join(__dirname, &#x27;../utilities/INITIAL_COMMIT_MESSAGE.txt&#x27;));
+            var commitMessage = template(commitTemplate)(pkg);
+            return exec(
+              &#x27;git commit -m &#x22;&#x27; + commitMessage + &#x27;&#x22;&#x27;, { env: gitEnvironmentVariables });
+          }
+        })
+        .then(function () {
+          ui.writeLine(chalk.green(&#x27;Successfully initialized git.&#x27;));
+        });
+    })
+    .catch(function (/*error*/) {
+      // if git is not found or an error was thrown during the `git`
+      // init process just swallow any errors here
+    });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+    ],
+    run: function (commandOptions, rawArgs) {
+        var keyword = rawArgs[0];
+        var docTask = new doc_1.DocTask({
+            ui: this.ui,
+            project: this.project
+        });
+        return docTask.<span class="apidocCodeKeywordSpan">run</span>(keyword);
+    }
+});
+Object.defineProperty(exports, &#x22;__esModule&#x22;, { value: true });
+exports.default = DocCommand;
+//# sourceMappingURL=/Users/hans/Sources/angular-cli/packages/angular-cli/commands/doc.js.map
+...</pre></li>
+    </ul>
+
+
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.github_pages_deploy" id="apidoc.module.angular-cli.github_pages_deploy">module angular-cli.github_pages_deploy</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.github_pages_deploy.default" id="apidoc.element.angular-cli.github_pages_deploy.default">
+        function <span class="apidocSignatureSpan">angular-cli.github_pages_deploy.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.github_pages_deploy_run" id="apidoc.module.angular-cli.github_pages_deploy_run">module angular-cli.github_pages_deploy_run</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.github_pages_deploy_run.default" id="apidoc.element.angular-cli.github_pages_deploy_run.default">
+        function <span class="apidocSignatureSpan">angular-cli.github_pages_deploy_run.</span>default
+        <span class="apidocSignatureSpan">(options, rawArgs)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function githubPagesDeployRun(options, rawArgs) {
+    var ui = this.ui;
+    var root = this.project.root;
+    var execOptions = {
+        cwd: root
+    };
+    if (options.environment === &#x27;&#x27;) {
+        if (options.target === &#x27;development&#x27;) {
+            options.environment = &#x27;dev&#x27;;
+        }
+        if (options.target === &#x27;production&#x27;) {
+            options.environment = &#x27;prod&#x27;;
+        }
+    }
+    var projectName = this.project.pkg.name;
+    var outDir = config_1.CliConfig.fromProject().config.apps[0].outDir;
+    var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+    var ghPagesBranch = &#x27;gh-pages&#x27;;
+    var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+    var initialBranch;
+    var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+    // declared here so that tests can stub exec
+    var execPromise = denodeify(child_process_1.exec);
+    var buildTask = new build_1.default({
+        ui: this.ui,
+        cliProject: this.project,
+        target: options.target,
+        environment: options.environment,
+        outputPath: outDir
+    });
+<span class="apidocCodeCommentSpan">    /**
+     * BaseHref tag setting logic:
+     * First, no value if --custom-domain is provided.
+     * Second, use --base-href flag value if provided.
+     * Else if --user-page is true, then keep baseHref default as declared in index.html.
+     * Otherwise auto-replace with `/${projectName}/`.
+     */
+</span>    var baseHref = null;
+    if (!options.customDomain) {
+        baseHref = options.baseHref || (options.userPage ? null : &#x22;/&#x22; + projectName + &#x22;/&#x22;);
+    }
+    var buildOptions = {
+        target: options.target,
+        environment: options.environment,
+        outputPath: outDir,
+        baseHref: baseHref,
+        aot: options.aot,
+        vendorChunk: options.vendorChunk,
+    };
+    var createGithubRepoTask = new create_github_repo_1.default({
+        ui: this.ui,
+        project: this.project
+    });
+    var createGithubRepoOptions = {
+        projectName: projectName,
+        ghUsername: options.ghUsername,
+        ghToken: options.ghToken
+    };
+    return checkForPendingChanges()
+        .then(build)
+        .then(saveStartingBranchName)
+        .then(createGitHubRepoIfNeeded)
+        .then(checkoutGhPages)
+        .then(cleanGhPagesBranch)
+        .then(copyFiles)
+        .then(createNotFoundPage)
+        .then(createCustomDomainFile)
+        .then(addAndCommit)
+        .then(returnStartingBranch)
+        .then(pushToGitRepo)
+        .then(printProjectUrl)
+        .catch(failGracefully);
+    function checkForPendingChanges() {
+        return execPromise(&#x27;git status --porcelain&#x27;)
+            .then(function (stdout) {
+            if (/\w+/m.test(stdout)) {
+                var msg = &#x27;Uncommitted file changes found! Please commit all changes before deploying.&#x27;;
+                return Promise.reject(new SilentError(msg));
+            }
+        });
+    }
+    function build() {
+        if (options.skipBuild) {
+            return Promise.resolve();
+        }
+        return buildTask.run(buildOptions);
+    }
+    function saveStartingBranchName() {
+        return execPromise(&#x27;git rev-parse --abbrev-ref HEAD&#x27;)
+            .then(function (stdout) { return initialBranch = stdout.replace(/\s/g, &#x27;&#x27;); });
+    }
+    function createGitHubRepoIfNeeded() {
+        return execPromise(&#x27;git remote -v&#x27;)
+            .then(function (stdout) {
+            if (!/origin\s+(https:\/\/|git@)github\.com/m.test(stdout)) {
+                return createGithubRepoTask.run(createGithubRepoOptions)
+                    .then(function () { return generateRemoteUrl(); })
+                    .then(function (upstream) {
+                    // only push starting branch if it&#x27;s not the destinationBranch
+                    // this happens commonly when using github user pages, since
+                    // they require the destination branch to be &#x27;master&#x27;
+                    if (destinationBranch !== initialBranch) {
+                        execPromise(&#x22;git push -u &#x22; + upstream + &#x22; &#x22; + initialBranch);
+                    }
+                }); ...</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.glob_copy_webpack_plugin" id="apidoc.module.angular-cli.glob_copy_webpack_plugin">module angular-cli.glob_copy_webpack_plugin</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.glob_copy_webpack_plugin.GlobCopyWebpackPlugin" id="apidoc.element.angular-cli.glob_copy_webpack_plugin.GlobCopyWebpackPlugin">
+        function <span class="apidocSignatureSpan">angular-cli.glob_copy_webpack_plugin.</span>GlobCopyWebpackPlugin
+        <span class="apidocSignatureSpan">(options)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function GlobCopyWebpackPlugin(options) {
+    this.options = options;
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.help" id="apidoc.module.angular-cli.help">module angular-cli.help</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.help.default" id="apidoc.element.angular-cli.help.default">
+        function <span class="apidocSignatureSpan">angular-cli.help.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.init" id="apidoc.module.angular-cli.init">module angular-cli.init</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.init.default" id="apidoc.element.angular-cli.init.default">
+        function <span class="apidocSignatureSpan">angular-cli.init.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.init_run" id="apidoc.module.angular-cli.init_run">module angular-cli.init_run</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.init_run.default" id="apidoc.element.angular-cli.init_run.default">
+        function <span class="apidocSignatureSpan">angular-cli.init_run.</span>default
+        <span class="apidocSignatureSpan">(commandOptions, rawArgs)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function initRun(commandOptions, rawArgs) {
+    var _this = this;
+    if (commandOptions.dryRun) {
+        commandOptions.skipNpm = true;
+    }
+    var installBlueprint = new this.tasks.InstallBlueprint({
+        ui: this.ui,
+        project: this.project
+    });
+    // needs an explicit check in case it&#x27;s just &#x27;undefined&#x27;
+    // due to passing of options from &#x27;new&#x27; and &#x27;addon&#x27;
+    var gitInit;
+    if (commandOptions.skipGit === false) {
+        gitInit = new GitInit({
+            ui: this.ui,
+            project: this.project
+        });
+    }
+    var npmInstall;
+    if (!commandOptions.skipNpm) {
+        npmInstall = new npm_install_1.default({
+            ui: this.ui,
+            project: this.project
+        });
+    }
+    var linkCli;
+    if (commandOptions.linkCli) {
+        linkCli = new link_cli_1.default({
+            ui: this.ui,
+            project: this.project
+        });
+    }
+    var project = this.project;
+    var packageName = commandOptions.name !== &#x27;.&#x27; &#x26;&#x26; commandOptions.name || project.name();
+    if (!packageName) {
+        var message = &#x27;The `ng &#x27; + this.name + &#x27;` command requires a &#x27; +
+            &#x27;package.json in current folder with name attribute or a specified name via arguments. &#x27; +
+            &#x27;For more details, use `ng help`.&#x27;;
+        return Promise.reject(new SilentError(message));
+    }
+    var blueprintOpts = {
+        dryRun: commandOptions.dryRun,
+        blueprint: &#x27;ng2&#x27;,
+        rawName: packageName,
+        targetFiles: rawArgs || &#x27;&#x27;,
+        rawArgs: rawArgs.toString(),
+        sourceDir: commandOptions.sourceDir,
+        style: commandOptions.style,
+        prefix: commandOptions.prefix,
+        routing: commandOptions.routing,
+        inlineStyle: commandOptions.inlineStyle,
+        inlineTemplate: commandOptions.inlineTemplate,
+        ignoredUpdateFiles: [&#x27;favicon.ico&#x27;],
+        skipGit: commandOptions.skipGit,
+        skipTests: commandOptions.skipTests
+    };
+    if (!validProjectName(packageName)) {
+        return Promise.reject(new SilentError(&#x27;We currently do not support a name of `&#x27; + packageName + &#x27;`.&#x27;));
+    }
+    blueprintOpts.blueprint = normalizeBlueprint(blueprintOpts.blueprint);
+    return installBlueprint.run(blueprintOpts)
+        .then(function () {
+        if (commandOptions.skipGit === false) {
+            return gitInit.run(commandOptions, rawArgs);
+        }
+    })
+        .then(function () {
+        if (!commandOptions.skipNpm) {
+            return npmInstall.run();
+        }
+    })
+        .then(function () {
+        if (commandOptions.linkCli) {
+            return linkCli.run();
+        }
+    })
+        .then(function () {
+        _this.ui.writeLine(chalk.green(&#x22;Project &#x27;&#x22; + packageName + &#x22;&#x27; successfully created.&#x22;));
+    });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.lint" id="apidoc.module.angular-cli.lint">module angular-cli.lint</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.lint.default" id="apidoc.element.angular-cli.lint.default">
+        function <span class="apidocSignatureSpan">angular-cli.lint.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.new" id="apidoc.module.angular-cli.new">module angular-cli.new</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.new.default" id="apidoc.element.angular-cli.new.default">
+        function <span class="apidocSignatureSpan">angular-cli.new.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.npm_install" id="apidoc.module.angular-cli.npm_install">module angular-cli.npm_install</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.npm_install.default" id="apidoc.element.angular-cli.npm_install.default">
+        function <span class="apidocSignatureSpan">angular-cli.npm_install.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.package_chunk_sort" id="apidoc.module.angular-cli.package_chunk_sort">module angular-cli.package_chunk_sort</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.package_chunk_sort.packageChunkSort" id="apidoc.element.angular-cli.package_chunk_sort.packageChunkSort">
+        function <span class="apidocSignatureSpan">angular-cli.package_chunk_sort.</span>packageChunkSort
+        <span class="apidocSignatureSpan">(appConfig)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function packageChunkSort(appConfig) {
+    var entryPoints = [&#x27;inline&#x27;, &#x27;polyfills&#x27;];
+    var pushExtraEntries = function (extraEntry) {
+        if (entryPoints.indexOf(extraEntry.entry) === -1) {
+            entryPoints.push(extraEntry.entry);
+        }
+    };
+    if (appConfig.scripts) {
+        utils_1.extraEntryParser(appConfig.scripts, &#x27;./&#x27;, &#x27;scripts&#x27;).forEach(pushExtraEntries);
+    }
+    if (appConfig.styles) {
+        utils_1.extraEntryParser(appConfig.styles, &#x27;./&#x27;, &#x27;styles&#x27;).forEach(pushExtraEntries);
+    }
+    entryPoints.push.apply(entryPoints, [&#x27;vendor&#x27;, &#x27;main&#x27;]);
+    return function sort(left, right) {
+        var leftIndex = entryPoints.indexOf(left.names[0]);
+        var rightindex = entryPoints.indexOf(right.names[0]);
+        if (leftIndex &#x3e; rightindex) {
+            return 1;
+        }
+        else if (leftIndex &#x3c; rightindex) {
+            return -1;
+        }
+        else {
+            return 0;
+        }
+    };
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.prerender_webpack_plugin" id="apidoc.module.angular-cli.prerender_webpack_plugin">module angular-cli.prerender_webpack_plugin</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.prerender_webpack_plugin.PrerenderWebpackPlugin" id="apidoc.element.angular-cli.prerender_webpack_plugin.PrerenderWebpackPlugin">
+        function <span class="apidocSignatureSpan">angular-cli.prerender_webpack_plugin.</span>PrerenderWebpackPlugin
+        <span class="apidocSignatureSpan">(options)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function PrerenderWebpackPlugin(options) {
+    this.options = options;
+    // maintain your platform instance
+    this.bootloader = require(this.options.configPath).getBootloader();
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.require_project_module" id="apidoc.module.angular-cli.require_project_module">module angular-cli.require_project_module</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.require_project_module.requireDependency" id="apidoc.element.angular-cli.require_project_module.requireDependency">
+        function <span class="apidocSignatureSpan">angular-cli.require_project_module.</span>requireDependency
+        <span class="apidocSignatureSpan">(root, moduleName)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function requireDependency(root, moduleName) {
+    var packageJson = require(path.join(root, &#x27;node_modules&#x27;, moduleName, &#x27;package.json&#x27;));
+    var main = path.normalize(packageJson.main);
+    return require(path.join(root, &#x27;node_modules&#x27;, moduleName, main));
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.serve" id="apidoc.module.angular-cli.serve">module angular-cli.serve</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.serve.default" id="apidoc.element.angular-cli.serve.default">
+        function <span class="apidocSignatureSpan">angular-cli.serve.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.serve_run" id="apidoc.module.angular-cli.serve_run">module angular-cli.serve_run</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.serve_run.default" id="apidoc.element.angular-cli.serve_run.default">
+        function <span class="apidocSignatureSpan">angular-cli.serve_run.</span>default
+        <span class="apidocSignatureSpan">(commandOptions)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function serveRun(commandOptions) {
+    var _this = this;
+    // Check angular version.
+    version_1.Version.assertAngularVersionIs2_3_1OrHigher(this.project.root);
+    commandOptions.liveReloadHost = commandOptions.liveReloadHost || commandOptions.host;
+    return checkExpressPort(commandOptions)
+        .then(function () { return autoFindLiveReloadPort(commandOptions); })
+        .then(function (opts) {
+        var serve = new serve_1.default({
+            ui: _this.ui,
+            project: _this.project,
+        });
+        return serve.run(opts);
+    });
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.set" id="apidoc.module.angular-cli.set">module angular-cli.set</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.set.default" id="apidoc.element.angular-cli.set.default">
+        function <span class="apidocSignatureSpan">angular-cli.set.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.suppress_entry_chunks_webpack_plugin" id="apidoc.module.angular-cli.suppress_entry_chunks_webpack_plugin">module angular-cli.suppress_entry_chunks_webpack_plugin</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.suppress_entry_chunks_webpack_plugin.SuppressExtractedTextChunksWebpackPlugin" id="apidoc.element.angular-cli.suppress_entry_chunks_webpack_plugin.SuppressExtractedTextChunksWebpackPlugin">
+        function <span class="apidocSignatureSpan">angular-cli.suppress_entry_chunks_webpack_plugin.</span>SuppressExtractedTextChunksWebpackPlugin
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function SuppressExtractedTextChunksWebpackPlugin() {
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.version" id="apidoc.module.angular-cli.version">module angular-cli.version</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.version.default" id="apidoc.element.angular-cli.version.default">
+        function <span class="apidocSignatureSpan">angular-cli.version.</span>default
+        <span class="apidocSignatureSpan">()</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function Class() {
+  constructor.apply(this, arguments);
+  if (this.init) {
+    this.init(options);
+  }
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+var indexFilename = config_1.CliConfig.fromProject().config.apps[0].index;
+var ghPagesBranch = &#x27;gh-pages&#x27;;
+var destinationBranch = options.userPage ? &#x27;master&#x27; : ghPagesBranch;
+var initialBranch;
+var branchErrMsg = &#x27; You might also need to return to the initial branch manually.&#x27;;
+// declared here so that tests can stub exec
+var execPromise = denodeify(child_process_1.exec);
+var buildTask = new build_1.<span class="apidocCodeKeywordSpan">default</span>({
+    ui: this.ui,
+    cliProject: this.project,
+    target: options.target,
+    environment: options.environment,
+    outputPath: outDir
+});
+/**
+...</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocSectionDiv">
+<h1><a href="#apidoc.module.angular-cli.webpack_config" id="apidoc.module.angular-cli.webpack_config">module angular-cli.webpack_config</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.angular-cli.webpack_config.NgCliWebpackConfig" id="apidoc.element.angular-cli.webpack_config.NgCliWebpackConfig">
+        function <span class="apidocSignatureSpan">angular-cli.webpack_config.</span>NgCliWebpackConfig
+        <span class="apidocSignatureSpan">(buildOptions)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">function NgCliWebpackConfig(buildOptions) {
+    this.validateBuildOptions(buildOptions);
+    var configPath = config_1.CliConfig.configFilePath();
+    var projectRoot = path.dirname(configPath);
+    var appConfig = config_1.CliConfig.fromProject().config.apps[0];
+    appConfig = this.addAppConfigDefaults(appConfig);
+    buildOptions = this.addTargetDefaults(buildOptions);
+    buildOptions = this.mergeConfigs(buildOptions, appConfig);
+    var wco = { projectRoot: projectRoot, buildOptions: buildOptions, appConfig: appConfig };
+    var webpackConfigs = [
+        webpack_configs_1.getCommonConfig(wco),
+        webpack_configs_1.getStylesConfig(wco),
+        this.getTargetConfig(wco)
+    ];
+    if (appConfig.main || appConfig.polyfills) {
+        var typescriptConfigPartial = buildOptions.aot
+            ? webpack_configs_1.getAotConfig(wco)
+            : webpack_configs_1.getNonAotConfig(wco);
+        webpackConfigs.push(typescriptConfigPartial);
+    }
+    // add style config
+    this.config = webpackMerge(webpackConfigs);
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
+
+</div>
+
+<div class="apidocFooterDiv">
+    [ this document was created with
+    <a href="https://github.com/kaizhu256/node-utility2" target="_blank">utility2</a>
+    ]
+</div>
+</div>
