@@ -1,4 +1,4 @@
-<div class="apidocDiv">
+<html><head></head><body><div class="apidocDiv">
 <style>
 /*csslint
 */
@@ -47,17 +47,10 @@
 }
 </style>
 <h1>api documentation for
-    <a
-
-        href="https://github.com/angular/angular-cli"
-
-    >angular-cli (v1.0.0-beta.28.3)</a>
+    <a href="https://github.com/angular/angular-cli">angular-cli (v1.0.0-beta.28.3)</a>
 </h1>
 <h4>CLI tool for Angular</h4>
-<div class="apidocSectionDiv"><a
-    href="#apidoc.tableOfContents"
-    id="apidoc.tableOfContents"
-><h1>table of contents</h1></a><ol>
+<div class="apidocSectionDiv"><a href="#apidoc.tableOfContents" id="apidoc.tableOfContents"><h1>table of contents</h1></a><ol>
 
     <li class="apidocModuleLi"><a href="#apidoc.module.angular-cli">module angular-cli</a><ol>
 
@@ -115,25 +108,25 @@
     <ul>
     <li>description and source-code<pre class="apidocCodePre">angular-cli = function (options) {
 
-  // patch UI to not print Ember-CLI warnings (which don&#x27;t apply to Angular-CLI)
+  // patch UI to not print Ember-CLI warnings (which don't apply to Angular-CLI)
   UI.prototype.writeWarnLine = function () { }
 
   // patch Watcher to always default to node, not checking for Watchman
   Watcher.detectWatcher = function(ui, _options){
     var options = _options || {};
-    options.watcher = &#x27;node&#x27;;
+    options.watcher = 'node';
     return Promise.resolve(options);
   }
 
   options.cli = {
-    name: &#x27;ng&#x27;,
-    root: path.join(__dirname, &#x27;..&#x27;, &#x27;..&#x27;),
-    npmPackage: &#x27;angular-cli&#x27;
+    name: 'ng',
+    root: path.join(__dirname, '..', '..'),
+    npmPackage: 'angular-cli'
   };
 
   // ensure the environemnt variable for dynamic paths
   process.env.PWD = path.normalize(process.env.PWD || process.cwd());
-  process.env.CLI_ROOT = process.env.CLI_ROOT || path.resolve(__dirname, &#x27;..&#x27;, &#x27;..&#x27;);
+  process.env.CLI_ROOT = process.env.CLI_ROOT || path.resolve(__dirname, '..', '..');
 
   return cli(options);
 }</pre></li>
@@ -189,3 +182,4 @@
     ]
 </div>
 </div>
+</body></html>

@@ -1,106 +1,109 @@
-<svg height="1646" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="1646" fill="#555" width="720"></rect>
+<svg height="1694" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1694" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">├── ember-cli-string-utils@1.1.0</tspan>
-<tspan x="10" y="42">├── ember-cli-normalize-entity-name@1.0.0</tspan>
-<tspan x="10" y="58">├── raw-loader@0.5.1</tspan>
-<tspan x="10" y="74">├── json-loader@0.5.4</tspan>
-<tspan x="10" y="90">├── get-caller-file@1.0.2</tspan>
-<tspan x="10" y="106">├── silent-error@1.0.1</tspan>
-<tspan x="10" y="122">├── script-loader@0.7.0</tspan>
-<tspan x="10" y="138">├── isbinaryfile@2.0.4</tspan>
-<tspan x="10" y="154">├── rimraf@2.6.1</tspan>
-<tspan x="10" y="170">├── exists-sync@0.0.3</tspan>
-<tspan x="10" y="186">├── semver@5.3.0</tspan>
-<tspan x="10" y="202">├── inflection@1.12.0</tspan>
-<tspan x="10" y="218">├── @angular-cli/base-href-webpack@1.0.16</tspan>
-<tspan x="10" y="234">├── webpack-merge@2.6.1</tspan>
-<tspan x="10" y="250">├── node-modules-path@1.0.1</tspan>
-<tspan x="10" y="266">├── through@2.3.8</tspan>
-<tspan x="10" y="282">├── denodeify@1.2.1</tspan>
-<tspan x="10" y="298">├── walk-sync@0.2.7 (ensure-posix-path@1.0.2, matcher-collection@1.0.4)</tspan>
-<tspan x="10" y="314">├── karma-sourcemap-loader@0.3.7 (graceful-fs@4.1.11)</tspan>
-<tspan x="10" y="330">├── nopt@3.0.6 (abbrev@1.1.0)</tspan>
-<tspan x="10" y="346">├── @ngtools/json-schema@1.0.8</tspan>
-<tspan x="10" y="362">├── debug@2.6.3 (ms@0.7.2)</tspan>
-<tspan x="10" y="378">├── chalk@1.1.3 (escape-string-regexp@1.0.5, ansi-styles@2.2.1, supports-color@2.0.0, has-ansi@2\</tspan>
-<tspan x="10" y="394">.0.0, strip-ansi@3.0.1)</tspan>
-<tspan x="10" y="410">├── diff@2.2.3</tspan>
-<tspan x="10" y="426">├── temp@0.8.3 (os-tmpdir@1.0.2, rimraf@2.2.8)</tspan>
-<tspan x="10" y="442">├── findup@0.1.5 (commander@2.1.0, colors@0.6.2)</tspan>
-<tspan x="10" y="458">├── opn@4.0.1 (object-assign@4.1.1, pinkie-promise@2.0.1)</tspan>
-<tspan x="10" y="474">├── minimatch@3.0.3 (brace-expansion@1.1.6)</tspan>
-<tspan x="10" y="490">├── glob@7.1.1 (path-is-absolute@1.0.1, inherits@2.0.3, fs.realpath@1.0.0, inflight@1.0.6, once@\</tspan>
-<tspan x="10" y="506">1.4.0)</tspan>
-<tspan x="10" y="522">├── file-loader@0.8.5 (loader-utils@0.2.17)</tspan>
-<tspan x="10" y="538">├── sass-loader@4.1.1 (object-assign@4.1.1, loader-utils@0.2.17)</tspan>
-<tspan x="10" y="554">├── rsvp@3.5.0</tspan>
-<tspan x="10" y="570">├── ora@0.2.3 (object-assign@4.1.1, cli-spinners@0.1.2, cli-cursor@1.0.2)</tspan>
-<tspan x="10" y="586">├── url-loader@0.5.8 (mime@1.3.4, loader-utils@1.1.0)</tspan>
-<tspan x="10" y="602">├── webpack-sources@0.1.5 (source-list-map@0.1.8, source-map@0.5.6)</tspan>
-<tspan x="10" y="618">├── fs-extra@0.30.0 (path-is-absolute@1.0.1, graceful-fs@4.1.11, jsonfile@2.4.0, klaw@1.3.1)</tspan>
-<tspan x="10" y="634">├── style-loader@0.13.2 (loader-utils@1.1.0)</tspan>
-<tspan x="10" y="650">├── portfinder@1.0.9 (async@1.5.2, mkdirp@0.5.1)</tspan>
-<tspan x="10" y="666">├── zone.js@0.7.8</tspan>
-<tspan x="10" y="682">├── stylus-loader@2.5.1 (lodash.clonedeep@4.5.0, loader-utils@0.2.17, when@3.6.4)</tspan>
-<tspan x="10" y="698">├── inquirer@0.12.0 (strip-ansi@3.0.1, ansi-regex@2.1.1, ansi-escapes@1.4.0, rx-lite@3.1.2, cli-\</tspan>
-<tspan x="10" y="714">width@2.1.0, figures@1.7.0, cli-cursor@1.0.2, string-width@1.0.2, readline2@1.0.1, run-async@0.1\</tspan>
-<tspan x="10" y="730">.0)</tspan>
-<tspan x="10" y="746">├── less-loader@2.2.3 (loader-utils@0.2.17)</tspan>
-<tspan x="10" y="762">├── source-map-loader@0.1.6 (async@0.9.2, loader-utils@0.2.17, source-map@0.1.43)</tspan>
-<tspan x="10" y="778">├── resolve@1.3.2 (path-parse@1.0.5)</tspan>
-<tspan x="10" y="794">├── postcss-loader@0.9.1 (loader-utils@0.2.17, postcss@5.2.16)</tspan>
-<tspan x="10" y="810">├── css-loader@0.26.4 (postcss-modules-extract-imports@1.0.1, object-assign@4.1.1, lodash.camelc\</tspan>
-<tspan x="10" y="826">ase@4.3.0, source-list-map@0.1.8, babel-code-frame@6.22.0, postcss-modules-values@1.2.2, loader-\</tspan>
-<tspan x="10" y="842">utils@1.1.0, css-selector-tokenizer@0.7.0, postcss-modules-scope@1.0.2, postcss@5.2.16, postcss-\</tspan>
-<tspan x="10" y="858">modules-local-by-default@1.1.1)</tspan>
-<tspan x="10" y="874">├── async@2.3.0</tspan>
-<tspan x="10" y="890">├── @ngtools/webpack@1.3.0 (source-map@0.5.6, loader-utils@1.1.0, magic-string@0.19.0, enhanced-\</tspan>
-<tspan x="10" y="906">resolve@3.1.0)</tspan>
-<tspan x="10" y="922">├── extract-text-webpack-plugin@2.1.0 (loader-utils@1.1.0, ajv@4.11.5)</tspan>
-<tspan x="10" y="938">├── webpack-dev-server@2.2.0-rc.0 (connect-history-api-fallback@1.3.0, strip-ansi@3.0.1, support\</tspan>
-<tspan x="10" y="954">s-color@3.2.3, opn@4.0.2, compression@1.6.2, webpack-dev-middleware@1.10.1, express@4.15.2, spdy\</tspan>
-<tspan x="10" y="970">@3.4.4, http-proxy-middleware@0.17.4, chokidar@1.6.1, sockjs@0.3.18, serve-index@1.8.0, sockjs-c\</tspan>
-<tspan x="10" y="986">lient@1.1.1, yargs@6.6.0)</tspan>
-<tspan x="10" y="1002">├── stylus@0.54.5 (css-parse@1.7.0, glob@7.0.6, mkdirp@0.5.1, source-map@0.1.43, sax@0.5.8)</tspan>
-<tspan x="10" y="1018">├── html-webpack-plugin@2.28.0 (toposort@1.0.3, loader-utils@0.2.17, bluebird@3.5.0, html-minifi\</tspan>
-<tspan x="10" y="1034">er@3.4.2, pretty-error@2.0.3)</tspan>
-<tspan x="10" y="1050">├── @angular/compiler-cli@2.4.10 (minimist@1.2.0, reflect-metadata@0.1.10, @angular/tsc-wrapped@\</tspan>
-<tspan x="10" y="1066">0.5.2)</tspan>
-<tspan x="10" y="1082">├── typescript@2.0.10</tspan>
-<tspan x="10" y="1098">├── sourcemap-istanbul-instrumenter-loader@0.2.0 (object-assign@4.1.1, loader-utils@0.2.17, ista\</tspan>
-<tspan x="10" y="1114">nbul@0.4.5)</tspan>
-<tspan x="10" y="1130">├── karma-webpack@1.8.1 (async@0.9.2, loader-utils@0.2.17, source-map@0.1.43, webpack-dev-middle\</tspan>
-<tspan x="10" y="1146">ware@1.10.1, lodash@3.10.1)</tspan>
-<tspan x="10" y="1162">├── webpack@2.2.0 (tapable@0.2.6, loader-runner@2.3.0, interpret@1.0.2, acorn-dynamic-import@2.0\</tspan>
-<tspan x="10" y="1178">.2, supports-color@3.2.3, loader-utils@0.2.17, ajv-keywords@1.5.1, source-map@0.5.6, acorn@4.0.1\</tspan>
-<tspan x="10" y="1194">1, mkdirp@0.5.1, memory-fs@0.4.1, enhanced-resolve@3.1.0, uglify-js@2.8.21, watchpack@1.3.1, yar\</tspan>
-<tspan x="10" y="1210">gs@6.6.0, ajv@4.11.5, node-libs-browser@2.0.0)</tspan>
-<tspan x="10" y="1226">├── remap-istanbul@0.6.4 (amdefine@1.0.0, source-map@0.5.6, through2@2.0.1, gulp-util@3.0.7, ist\</tspan>
-<tspan x="10" y="1242">anbul@0.4.3)</tspan>
-<tspan x="10" y="1258">├── @angular/compiler@2.4.10</tspan>
-<tspan x="10" y="1274">├── cssnano@3.10.0 (decamelize@1.2.0, object-assign@4.1.1, postcss-normalize-charset@1.1.1, post\</tspan>
-<tspan x="10" y="1290">css-discard-empty@2.1.0, postcss-reduce-transforms@1.0.4, postcss-discard-duplicates@2.1.0, post\</tspan>
-<tspan x="10" y="1306">css-merge-idents@2.1.7, postcss-minify-gradients@1.0.5, postcss-reduce-initial@1.0.1, postcss-co\</tspan>
-<tspan x="10" y="1322">nvert-values@2.6.1, postcss-discard-comments@2.0.4, defined@1.0.0, postcss-value-parser@3.3.0, p\</tspan>
-<tspan x="10" y="1338">ostcss-minify-font-values@1.0.5, postcss-discard-overridden@0.1.1, postcss-reduce-idents@2.4.0, \</tspan>
-<tspan x="10" y="1354">postcss-ordered-values@2.2.3, postcss-discard-unused@2.2.3, postcss-zindex@2.2.0, postcss-minify\</tspan>
-<tspan x="10" y="1370">-params@1.2.2, postcss-unique-selectors@2.0.2, postcss-merge-longhand@2.0.2, has@1.0.1, postcss-\</tspan>
-<tspan x="10" y="1386">filter-plugins@2.0.2, postcss-calc@5.3.1, postcss-normalize-url@3.0.8, postcss-minify-selectors@\</tspan>
-<tspan x="10" y="1402">2.1.1, postcss-colormin@2.2.2, postcss@5.2.16, postcss-svgo@2.1.6, postcss-merge-rules@2.1.2)</tspan>
-<tspan x="10" y="1418">├── autoprefixer@6.7.7 (normalize-range@0.1.2, num2fraction@1.2.2, postcss-value-parser@3.3.0, b\</tspan>
-<tspan x="10" y="1434">rowserslist@1.7.7, postcss@5.2.16, caniuse-db@1.0.30000649)</tspan>
-<tspan x="10" y="1450">├── lodash@4.17.4</tspan>
-<tspan x="10" y="1466">├── less@2.7.2 (graceful-fs@4.1.11, mime@1.3.4, image-size@0.5.1, source-map@0.5.6, errno@0.1.4,\</tspan>
-<tspan x="10" y="1482"> mkdirp@0.5.1, promise@7.1.1, request@2.81.0)</tspan>
-<tspan x="10" y="1498">├── @angular-cli/ast-tools@1.0.16 (symbol-observable@1.0.4, minimist@1.2.0, source-map-support@0\</tspan>
-<tspan x="10" y="1514">.4.11, source-map@0.5.6, mkdirp@0.5.1, tsickle@0.2.5, rxjs@5.1.0)</tspan>
-<tspan x="10" y="1530">├── common-tags@1.4.0 (babel-runtime@6.23.0)</tspan>
-<tspan x="10" y="1546">├── rxjs@5.2.0 (symbol-observable@1.0.4)</tspan>
-<tspan x="10" y="1562">├── @angular/core@2.4.10</tspan>
-<tspan x="10" y="1578">└── node-sass@4.5.2 (get-stdin@4.0.1, lodash.assign@4.2.0, lodash.clonedeep@4.5.0, lodash.mergew\</tspan>
-<tspan x="10" y="1594">ith@4.6.0, async-foreach@0.1.3, in-publish@2.0.0, nan@2.5.1, mkdirp@0.5.1, cross-spawn@3.0.1, st\</tspan>
-<tspan x="10" y="1610">dout-stream@1.4.0, npmlog@4.0.2, meow@3.7.0, sass-graph@2.1.2, node-gyp@3.6.0, request@2.81.0, g\</tspan>
-<tspan x="10" y="1626">aze@1.1.2)</tspan>
+<tspan x="10" y="26">231 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├── ember-cli-string-utils@1.1.0</tspan>
+<tspan x="10" y="90">├── ember-cli-normalize-entity-name@1.0.0</tspan>
+<tspan x="10" y="106">├── json-loader@0.5.4</tspan>
+<tspan x="10" y="122">├── raw-loader@0.5.1</tspan>
+<tspan x="10" y="138">├── get-caller-file@1.0.2</tspan>
+<tspan x="10" y="154">├── silent-error@1.0.1</tspan>
+<tspan x="10" y="170">├── script-loader@0.7.0</tspan>
+<tspan x="10" y="186">├── isbinaryfile@2.0.4</tspan>
+<tspan x="10" y="202">├── rimraf@2.6.1</tspan>
+<tspan x="10" y="218">├── exists-sync@0.0.3</tspan>
+<tspan x="10" y="234">├── semver@5.3.0</tspan>
+<tspan x="10" y="250">├── inflection@1.12.0</tspan>
+<tspan x="10" y="266">├── @angular-cli/base-href-webpack@1.0.16</tspan>
+<tspan x="10" y="282">├── webpack-merge@2.6.1</tspan>
+<tspan x="10" y="298">├── node-modules-path@1.0.1</tspan>
+<tspan x="10" y="314">├── through@2.3.8</tspan>
+<tspan x="10" y="330">├── denodeify@1.2.1</tspan>
+<tspan x="10" y="346">├── walk-sync@0.2.7 (ensure-posix-path@1.0.2, matcher-collection@1.0.4)</tspan>
+<tspan x="10" y="362">├── karma-sourcemap-loader@0.3.7 (graceful-fs@4.1.11)</tspan>
+<tspan x="10" y="378">├── nopt@3.0.6 (abbrev@1.1.0)</tspan>
+<tspan x="10" y="394">├── @ngtools/json-schema@1.0.8</tspan>
+<tspan x="10" y="410">├── chalk@1.1.3 (escape-string-regexp@1.0.5, ansi-styles@2.2.1, supports-color@2.0.0, has-ansi@2\</tspan>
+<tspan x="10" y="426">.0.0, strip-ansi@3.0.1)</tspan>
+<tspan x="10" y="442">├── debug@2.6.3 (ms@0.7.2)</tspan>
+<tspan x="10" y="458">├── diff@2.2.3</tspan>
+<tspan x="10" y="474">├── temp@0.8.3 (os-tmpdir@1.0.2, rimraf@2.2.8)</tspan>
+<tspan x="10" y="490">├── findup@0.1.5 (commander@2.1.0, colors@0.6.2)</tspan>
+<tspan x="10" y="506">├── opn@4.0.1 (object-assign@4.1.1, pinkie-promise@2.0.1)</tspan>
+<tspan x="10" y="522">├── minimatch@3.0.3 (brace-expansion@1.1.7)</tspan>
+<tspan x="10" y="538">├── glob@7.1.1 (path-is-absolute@1.0.1, inherits@2.0.3, fs.realpath@1.0.0, inflight@1.0.6, once@\</tspan>
+<tspan x="10" y="554">1.4.0)</tspan>
+<tspan x="10" y="570">├── file-loader@0.8.5 (loader-utils@0.2.17)</tspan>
+<tspan x="10" y="586">├── sass-loader@4.1.1 (object-assign@4.1.1, loader-utils@0.2.17)</tspan>
+<tspan x="10" y="602">├── rsvp@3.5.0</tspan>
+<tspan x="10" y="618">├── ora@0.2.3 (object-assign@4.1.1, cli-spinners@0.1.2, cli-cursor@1.0.2)</tspan>
+<tspan x="10" y="634">├── url-loader@0.5.8 (mime@1.3.4, loader-utils@1.1.0)</tspan>
+<tspan x="10" y="650">├── webpack-sources@0.1.5 (source-list-map@0.1.8, source-map@0.5.6)</tspan>
+<tspan x="10" y="666">├── fs-extra@0.30.0 (path-is-absolute@1.0.1, graceful-fs@4.1.11, jsonfile@2.4.0, klaw@1.3.1)</tspan>
+<tspan x="10" y="682">├── style-loader@0.13.2 (loader-utils@1.1.0)</tspan>
+<tspan x="10" y="698">├── portfinder@1.0.9 (async@1.5.2, mkdirp@0.5.1)</tspan>
+<tspan x="10" y="714">├── zone.js@0.7.8</tspan>
+<tspan x="10" y="730">├── stylus-loader@2.5.1 (lodash.clonedeep@4.5.0, loader-utils@0.2.17, when@3.6.4)</tspan>
+<tspan x="10" y="746">├── inquirer@0.12.0 (strip-ansi@3.0.1, ansi-regex@2.1.1, ansi-escapes@1.4.0, rx-lite@3.1.2, cli-\</tspan>
+<tspan x="10" y="762">width@2.1.0, figures@1.7.0, cli-cursor@1.0.2, string-width@1.0.2, readline2@1.0.1, run-async@0.1\</tspan>
+<tspan x="10" y="778">.0)</tspan>
+<tspan x="10" y="794">├── less-loader@2.2.3 (loader-utils@0.2.17)</tspan>
+<tspan x="10" y="810">├── source-map-loader@0.1.6 (async@0.9.2, loader-utils@0.2.17, source-map@0.1.43)</tspan>
+<tspan x="10" y="826">├── resolve@1.3.2 (path-parse@1.0.5)</tspan>
+<tspan x="10" y="842">├── postcss-loader@0.9.1 (loader-utils@0.2.17, postcss@5.2.17)</tspan>
+<tspan x="10" y="858">├── css-loader@0.26.4 (postcss-modules-extract-imports@1.0.1, object-assign@4.1.1, lodash.camelc\</tspan>
+<tspan x="10" y="874">ase@4.3.0, source-list-map@0.1.8, babel-code-frame@6.22.0, postcss-modules-values@1.2.2, loader-\</tspan>
+<tspan x="10" y="890">utils@1.1.0, css-selector-tokenizer@0.7.0, postcss-modules-scope@1.0.2, postcss@5.2.17, postcss-\</tspan>
+<tspan x="10" y="906">modules-local-by-default@1.1.1)</tspan>
+<tspan x="10" y="922">├── async@2.3.0</tspan>
+<tspan x="10" y="938">├── @ngtools/webpack@1.3.0 (source-map@0.5.6, loader-utils@1.1.0, magic-string@0.19.0, enhanced-\</tspan>
+<tspan x="10" y="954">resolve@3.1.0)</tspan>
+<tspan x="10" y="970">├── extract-text-webpack-plugin@2.1.0 (loader-utils@1.1.0, ajv@4.11.6)</tspan>
+<tspan x="10" y="986">├── webpack-dev-server@2.2.0-rc.0 (connect-history-api-fallback@1.3.0, strip-ansi@3.0.1, support\</tspan>
+<tspan x="10" y="1002">s-color@3.2.3, opn@4.0.2, compression@1.6.2, webpack-dev-middleware@1.10.1, express@4.15.2, http\</tspan>
+<tspan x="10" y="1018">-proxy-middleware@0.17.4, chokidar@1.6.1, spdy@3.4.4, sockjs@0.3.18, serve-index@1.8.0, sockjs-c\</tspan>
+<tspan x="10" y="1034">lient@1.1.1, yargs@6.6.0)</tspan>
+<tspan x="10" y="1050">├── stylus@0.54.5 (css-parse@1.7.0, glob@7.0.6, mkdirp@0.5.1, source-map@0.1.43, sax@0.5.8)</tspan>
+<tspan x="10" y="1066">├── html-webpack-plugin@2.28.0 (toposort@1.0.3, loader-utils@0.2.17, bluebird@3.5.0, html-minifi\</tspan>
+<tspan x="10" y="1082">er@3.4.3, pretty-error@2.1.0)</tspan>
+<tspan x="10" y="1098">├── @angular/compiler-cli@2.4.10 (minimist@1.2.0, reflect-metadata@0.1.10, @angular/tsc-wrapped@\</tspan>
+<tspan x="10" y="1114">0.5.2)</tspan>
+<tspan x="10" y="1130">├── typescript@2.0.10</tspan>
+<tspan x="10" y="1146">├── sourcemap-istanbul-instrumenter-loader@0.2.0 (object-assign@4.1.1, loader-utils@0.2.17, ista\</tspan>
+<tspan x="10" y="1162">nbul@0.4.5)</tspan>
+<tspan x="10" y="1178">├── karma-webpack@1.8.1 (async@0.9.2, loader-utils@0.2.17, source-map@0.1.43, webpack-dev-middle\</tspan>
+<tspan x="10" y="1194">ware@1.10.1, lodash@3.10.1)</tspan>
+<tspan x="10" y="1210">├── webpack@2.2.0 (tapable@0.2.6, loader-runner@2.3.0, interpret@1.0.2, acorn-dynamic-import@2.0\</tspan>
+<tspan x="10" y="1226">.2, supports-color@3.2.3, loader-utils@0.2.17, ajv-keywords@1.5.1, source-map@0.5.6, acorn@4.0.1\</tspan>
+<tspan x="10" y="1242">1, mkdirp@0.5.1, enhanced-resolve@3.1.0, memory-fs@0.4.1, uglify-js@2.8.22, watchpack@1.3.1, yar\</tspan>
+<tspan x="10" y="1258">gs@6.6.0, ajv@4.11.6, node-libs-browser@2.0.0)</tspan>
+<tspan x="10" y="1274">├── remap-istanbul@0.6.4 (amdefine@1.0.0, source-map@0.5.6, through2@2.0.1, gulp-util@3.0.7, ist\</tspan>
+<tspan x="10" y="1290">anbul@0.4.3)</tspan>
+<tspan x="10" y="1306">├── @angular/compiler@2.4.10</tspan>
+<tspan x="10" y="1322">├── cssnano@3.10.0 (decamelize@1.2.0, object-assign@4.1.1, postcss-normalize-charset@1.1.1, post\</tspan>
+<tspan x="10" y="1338">css-discard-empty@2.1.0, postcss-reduce-transforms@1.0.4, postcss-merge-idents@2.1.7, postcss-mi\</tspan>
+<tspan x="10" y="1354">nify-gradients@1.0.5, postcss-discard-duplicates@2.1.0, postcss-reduce-initial@1.0.1, postcss-co\</tspan>
+<tspan x="10" y="1370">nvert-values@2.6.1, postcss-discard-comments@2.0.4, defined@1.0.0, postcss-value-parser@3.3.0, p\</tspan>
+<tspan x="10" y="1386">ostcss-minify-font-values@1.0.5, postcss-discard-overridden@0.1.1, postcss-reduce-idents@2.4.0, \</tspan>
+<tspan x="10" y="1402">postcss-ordered-values@2.2.3, postcss-discard-unused@2.2.3, postcss-zindex@2.2.0, postcss-unique\</tspan>
+<tspan x="10" y="1418">-selectors@2.0.2, postcss-minify-params@1.2.2, postcss-merge-longhand@2.0.2, has@1.0.1, postcss-\</tspan>
+<tspan x="10" y="1434">filter-plugins@2.0.2, postcss-calc@5.3.1, postcss-normalize-url@3.0.8, postcss-minify-selectors@\</tspan>
+<tspan x="10" y="1450">2.1.1, postcss-colormin@2.2.2, postcss@5.2.17, postcss-svgo@2.1.6, postcss-merge-rules@2.1.2)</tspan>
+<tspan x="10" y="1466">├── autoprefixer@6.7.7 (normalize-range@0.1.2, num2fraction@1.2.2, postcss-value-parser@3.3.0, b\</tspan>
+<tspan x="10" y="1482">rowserslist@1.7.7, postcss@5.2.17, caniuse-db@1.0.30000655)</tspan>
+<tspan x="10" y="1498">├── lodash@4.17.4</tspan>
+<tspan x="10" y="1514">├── less@2.7.2 (graceful-fs@4.1.11, mime@1.3.4, image-size@0.5.1, source-map@0.5.6, errno@0.1.4,\</tspan>
+<tspan x="10" y="1530"> mkdirp@0.5.1, promise@7.1.1, request@2.81.0)</tspan>
+<tspan x="10" y="1546">├── @angular-cli/ast-tools@1.0.16 (symbol-observable@1.0.4, minimist@1.2.0, source-map-support@0\</tspan>
+<tspan x="10" y="1562">.4.11, source-map@0.5.6, mkdirp@0.5.1, tsickle@0.2.5, rxjs@5.1.0)</tspan>
+<tspan x="10" y="1578">├── common-tags@1.4.0 (babel-runtime@6.23.0)</tspan>
+<tspan x="10" y="1594">├── rxjs@5.3.0 (symbol-observable@1.0.4)</tspan>
+<tspan x="10" y="1610">├── @angular/core@2.4.10</tspan>
+<tspan x="10" y="1626">└── node-sass@4.5.2 (get-stdin@4.0.1, lodash.assign@4.2.0, lodash.clonedeep@4.5.0, lodash.mergew\</tspan>
+<tspan x="10" y="1642">ith@4.6.0, async-foreach@0.1.3, in-publish@2.0.0, mkdirp@0.5.1, cross-spawn@3.0.1, nan@2.6.2, st\</tspan>
+<tspan x="10" y="1658">dout-stream@1.4.0, npmlog@4.0.2, meow@3.7.0, sass-graph@2.1.2, node-gyp@3.6.0, request@2.81.0, g\</tspan>
+<tspan x="10" y="1674">aze@1.1.2)</tspan>
 </text>
 </svg>
