@@ -1,331 +1,331 @@
 <svg height="5246" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="5246" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-16 09:42:02 +0000   653021 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-16 09:42:02 +0000    66841 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-16 09:42:02 +0000     9768 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-16 09:42:02 +0000     1073 bytes  LICENSE</tspan>
-<tspan x="10" y="90">  4.  2017-04-16 09:42:02 +0000    16624 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-16 09:42:02 +0000     1533 bytes  addon/index.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-16 09:42:02 +0000     4634 bytes  bin/ng</tspan>
-<tspan x="10" y="138">  7.  2017-04-16 09:42:02 +0000      224 bytes  blueprints/class/files/__path__/__name__.spec.ts</tspan>
-<tspan x="10" y="154">  8.  2017-04-16 09:42:02 +0000       45 bytes  blueprints/class/files/__path__/__name__.ts</tspan>
-<tspan x="10" y="170">  9.  2017-04-16 09:42:02 +0000       52 bytes  blueprints/class/index.d.ts</tspan>
-<tspan x="10" y="186"> 10.  2017-04-16 09:42:02 +0000     2081 bytes  blueprints/class/index.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-16 09:42:02 +0000     1975 bytes  blueprints/class/index.js.map</tspan>
-<tspan x="10" y="218"> 12.  2017-04-16 09:42:02 +0000     1685 bytes  blueprints/class/index.ts</tspan>
-<tspan x="10" y="234"> 13.  2017-04-16 09:42:02 +0000        0 bytes  blueprints/component/files/__path__/__name__.com\</tspan>
+<tspan x="10" y="26">  0.  2017-04-16 09:45:09 +0000   653021 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-16 09:45:09 +0000    66841 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-16 09:45:09 +0000     9768 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-16 09:45:09 +0000     1073 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-16 09:45:09 +0000    16624 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-16 09:45:09 +0000     1533 bytes  addon/index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-16 09:45:09 +0000     4634 bytes  bin/ng</tspan>
+<tspan x="10" y="138">  7.  2017-04-16 09:45:09 +0000      224 bytes  blueprints/class/files/__path__/__name__.spec.ts</tspan>
+<tspan x="10" y="154">  8.  2017-04-16 09:45:09 +0000       45 bytes  blueprints/class/files/__path__/__name__.ts</tspan>
+<tspan x="10" y="170">  9.  2017-04-16 09:45:09 +0000       52 bytes  blueprints/class/index.d.ts</tspan>
+<tspan x="10" y="186"> 10.  2017-04-16 09:45:09 +0000     2081 bytes  blueprints/class/index.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-16 09:45:09 +0000     1975 bytes  blueprints/class/index.js.map</tspan>
+<tspan x="10" y="218"> 12.  2017-04-16 09:45:09 +0000     1685 bytes  blueprints/class/index.ts</tspan>
+<tspan x="10" y="234"> 13.  2017-04-16 09:45:09 +0000        0 bytes  blueprints/component/files/__path__/__name__.com\</tspan>
 <tspan x="10" y="250">ponent.__styleext__</tspan>
-<tspan x="10" y="266"> 14.  2017-04-16 09:42:02 +0000       46 bytes  blueprints/component/files/__path__/__name__.com\</tspan>
+<tspan x="10" y="266"> 14.  2017-04-16 09:45:09 +0000       46 bytes  blueprints/component/files/__path__/__name__.com\</tspan>
 <tspan x="10" y="282">ponent.html</tspan>
-<tspan x="10" y="298"> 15.  2017-04-16 09:42:02 +0000      909 bytes  blueprints/component/files/__path__/__name__.com\</tspan>
+<tspan x="10" y="298"> 15.  2017-04-16 09:45:09 +0000      909 bytes  blueprints/component/files/__path__/__name__.com\</tspan>
 <tspan x="10" y="314">ponent.spec.ts</tspan>
-<tspan x="10" y="330"> 16.  2017-04-16 09:42:02 +0000      831 bytes  blueprints/component/files/__path__/__name__.com\</tspan>
+<tspan x="10" y="330"> 16.  2017-04-16 09:45:09 +0000      831 bytes  blueprints/component/files/__path__/__name__.com\</tspan>
 <tspan x="10" y="346">ponent.ts</tspan>
-<tspan x="10" y="362"> 17.  2017-04-16 09:42:02 +0000       52 bytes  blueprints/component/index.d.ts</tspan>
-<tspan x="10" y="378"> 18.  2017-04-16 09:42:02 +0000     7275 bytes  blueprints/component/index.js</tspan>
-<tspan x="10" y="394"> 19.  2017-04-16 09:42:02 +0000     7264 bytes  blueprints/component/index.js.map</tspan>
-<tspan x="10" y="410"> 20.  2017-04-16 09:42:02 +0000     6414 bytes  blueprints/component/index.ts</tspan>
-<tspan x="10" y="426"> 21.  2017-04-16 09:42:02 +0000      405 bytes  blueprints/directive/files/__path__/__name__.dir\</tspan>
+<tspan x="10" y="362"> 17.  2017-04-16 09:45:09 +0000       52 bytes  blueprints/component/index.d.ts</tspan>
+<tspan x="10" y="378"> 18.  2017-04-16 09:45:09 +0000     7275 bytes  blueprints/component/index.js</tspan>
+<tspan x="10" y="394"> 19.  2017-04-16 09:45:09 +0000     7264 bytes  blueprints/component/index.js.map</tspan>
+<tspan x="10" y="410"> 20.  2017-04-16 09:45:09 +0000     6414 bytes  blueprints/component/index.ts</tspan>
+<tspan x="10" y="426"> 21.  2017-04-16 09:45:09 +0000      405 bytes  blueprints/directive/files/__path__/__name__.dir\</tspan>
 <tspan x="10" y="442">ective.spec.ts</tspan>
-<tspan x="10" y="458"> 22.  2017-04-16 09:42:02 +0000      168 bytes  blueprints/directive/files/__path__/__name__.dir\</tspan>
+<tspan x="10" y="458"> 22.  2017-04-16 09:45:09 +0000      168 bytes  blueprints/directive/files/__path__/__name__.dir\</tspan>
 <tspan x="10" y="474">ective.ts</tspan>
-<tspan x="10" y="490"> 23.  2017-04-16 09:42:02 +0000       52 bytes  blueprints/directive/index.d.ts</tspan>
-<tspan x="10" y="506"> 24.  2017-04-16 09:42:02 +0000     4995 bytes  blueprints/directive/index.js</tspan>
-<tspan x="10" y="522"> 25.  2017-04-16 09:42:02 +0000     5072 bytes  blueprints/directive/index.js.map</tspan>
-<tspan x="10" y="538"> 26.  2017-04-16 09:42:02 +0000     4403 bytes  blueprints/directive/index.ts</tspan>
-<tspan x="10" y="554"> 27.  2017-04-16 09:42:02 +0000       44 bytes  blueprints/enum/files/__path__/__name__.enum.ts</tspan>
-<tspan x="10" y="570"> 28.  2017-04-16 09:42:02 +0000       52 bytes  blueprints/enum/index.d.ts</tspan>
-<tspan x="10" y="586"> 29.  2017-04-16 09:42:02 +0000     1265 bytes  blueprints/enum/index.js</tspan>
-<tspan x="10" y="602"> 30.  2017-04-16 09:42:02 +0000     1004 bytes  blueprints/enum/index.js.map</tspan>
-<tspan x="10" y="618"> 31.  2017-04-16 09:42:02 +0000      952 bytes  blueprints/enum/index.ts</tspan>
-<tspan x="10" y="634"> 32.  2017-04-16 09:42:02 +0000       62 bytes  blueprints/interface/files/__path__/__name__.ts</tspan>
-<tspan x="10" y="650"> 33.  2017-04-16 09:42:02 +0000       52 bytes  blueprints/interface/index.d.ts</tspan>
-<tspan x="10" y="666"> 34.  2017-04-16 09:42:02 +0000     1697 bytes  blueprints/interface/index.js</tspan>
-<tspan x="10" y="682"> 35.  2017-04-16 09:42:02 +0000     1439 bytes  blueprints/interface/index.js.map</tspan>
-<tspan x="10" y="698"> 36.  2017-04-16 09:42:02 +0000     1323 bytes  blueprints/interface/index.ts</tspan>
-<tspan x="10" y="714"> 37.  2017-04-16 09:42:02 +0000      287 bytes  blueprints/module/files/__path__/__name__-routin\</tspan>
+<tspan x="10" y="490"> 23.  2017-04-16 09:45:09 +0000       52 bytes  blueprints/directive/index.d.ts</tspan>
+<tspan x="10" y="506"> 24.  2017-04-16 09:45:09 +0000     4995 bytes  blueprints/directive/index.js</tspan>
+<tspan x="10" y="522"> 25.  2017-04-16 09:45:09 +0000     5072 bytes  blueprints/directive/index.js.map</tspan>
+<tspan x="10" y="538"> 26.  2017-04-16 09:45:09 +0000     4403 bytes  blueprints/directive/index.ts</tspan>
+<tspan x="10" y="554"> 27.  2017-04-16 09:45:09 +0000       44 bytes  blueprints/enum/files/__path__/__name__.enum.ts</tspan>
+<tspan x="10" y="570"> 28.  2017-04-16 09:45:09 +0000       52 bytes  blueprints/enum/index.d.ts</tspan>
+<tspan x="10" y="586"> 29.  2017-04-16 09:45:09 +0000     1265 bytes  blueprints/enum/index.js</tspan>
+<tspan x="10" y="602"> 30.  2017-04-16 09:45:09 +0000     1004 bytes  blueprints/enum/index.js.map</tspan>
+<tspan x="10" y="618"> 31.  2017-04-16 09:45:09 +0000      952 bytes  blueprints/enum/index.ts</tspan>
+<tspan x="10" y="634"> 32.  2017-04-16 09:45:09 +0000       62 bytes  blueprints/interface/files/__path__/__name__.ts</tspan>
+<tspan x="10" y="650"> 33.  2017-04-16 09:45:09 +0000       52 bytes  blueprints/interface/index.d.ts</tspan>
+<tspan x="10" y="666"> 34.  2017-04-16 09:45:09 +0000     1697 bytes  blueprints/interface/index.js</tspan>
+<tspan x="10" y="682"> 35.  2017-04-16 09:45:09 +0000     1439 bytes  blueprints/interface/index.js.map</tspan>
+<tspan x="10" y="698"> 36.  2017-04-16 09:45:09 +0000     1323 bytes  blueprints/interface/index.ts</tspan>
+<tspan x="10" y="714"> 37.  2017-04-16 09:45:09 +0000      287 bytes  blueprints/module/files/__path__/__name__-routin\</tspan>
 <tspan x="10" y="730">g.module.ts</tspan>
-<tspan x="10" y="746"> 38.  2017-04-16 09:42:02 +0000      497 bytes  blueprints/module/files/__path__/__name__.module\</tspan>
+<tspan x="10" y="746"> 38.  2017-04-16 09:45:09 +0000      497 bytes  blueprints/module/files/__path__/__name__.module\</tspan>
 <tspan x="10" y="762">.spec.ts</tspan>
-<tspan x="10" y="778"> 39.  2017-04-16 09:42:02 +0000      416 bytes  blueprints/module/files/__path__/__name__.module\</tspan>
+<tspan x="10" y="778"> 39.  2017-04-16 09:45:09 +0000      416 bytes  blueprints/module/files/__path__/__name__.module\</tspan>
 <tspan x="10" y="794">.ts</tspan>
-<tspan x="10" y="810"> 40.  2017-04-16 09:42:02 +0000       52 bytes  blueprints/module/index.d.ts</tspan>
-<tspan x="10" y="826"> 41.  2017-04-16 09:42:02 +0000     3323 bytes  blueprints/module/index.js</tspan>
-<tspan x="10" y="842"> 42.  2017-04-16 09:42:02 +0000     2661 bytes  blueprints/module/index.js.map</tspan>
-<tspan x="10" y="858"> 43.  2017-04-16 09:42:02 +0000     2840 bytes  blueprints/module/index.ts</tspan>
-<tspan x="10" y="874"> 44.  2017-04-16 09:42:02 +0000     1189 bytes  blueprints/ng2/files/README.md</tspan>
-<tspan x="10" y="890"> 45.  2017-04-16 09:42:02 +0000      302 bytes  blueprints/ng2/files/__path__/app/app-routing.mo\</tspan>
+<tspan x="10" y="810"> 40.  2017-04-16 09:45:09 +0000       52 bytes  blueprints/module/index.d.ts</tspan>
+<tspan x="10" y="826"> 41.  2017-04-16 09:45:09 +0000     3323 bytes  blueprints/module/index.js</tspan>
+<tspan x="10" y="842"> 42.  2017-04-16 09:45:09 +0000     2661 bytes  blueprints/module/index.js.map</tspan>
+<tspan x="10" y="858"> 43.  2017-04-16 09:45:09 +0000     2840 bytes  blueprints/module/index.ts</tspan>
+<tspan x="10" y="874"> 44.  2017-04-16 09:45:09 +0000     1189 bytes  blueprints/ng2/files/README.md</tspan>
+<tspan x="10" y="890"> 45.  2017-04-16 09:45:09 +0000      302 bytes  blueprints/ng2/files/__path__/app/app-routing.mo\</tspan>
 <tspan x="10" y="906">dule.ts</tspan>
-<tspan x="10" y="922"> 46.  2017-04-16 09:42:02 +0000        0 bytes  blueprints/ng2/files/__path__/app/app.component.\</tspan>
+<tspan x="10" y="922"> 46.  2017-04-16 09:45:09 +0000        0 bytes  blueprints/ng2/files/__path__/app/app.component.\</tspan>
 <tspan x="10" y="938">__styleext__</tspan>
-<tspan x="10" y="954"> 47.  2017-04-16 09:42:02 +0000       82 bytes  blueprints/ng2/files/__path__/app/app.component.\</tspan>
+<tspan x="10" y="954"> 47.  2017-04-16 09:45:09 +0000       82 bytes  blueprints/ng2/files/__path__/app/app.component.\</tspan>
 <tspan x="10" y="970">html</tspan>
-<tspan x="10" y="986"> 48.  2017-04-16 09:42:02 +0000     1247 bytes  blueprints/ng2/files/__path__/app/app.component.\</tspan>
+<tspan x="10" y="986"> 48.  2017-04-16 09:45:09 +0000     1247 bytes  blueprints/ng2/files/__path__/app/app.component.\</tspan>
 <tspan x="10" y="1002">spec.ts</tspan>
-<tspan x="10" y="1018"> 49.  2017-04-16 09:42:02 +0000      461 bytes  blueprints/ng2/files/__path__/app/app.component.\</tspan>
+<tspan x="10" y="1018"> 49.  2017-04-16 09:45:09 +0000      461 bytes  blueprints/ng2/files/__path__/app/app.component.\</tspan>
 <tspan x="10" y="1034">ts</tspan>
-<tspan x="10" y="1050"> 50.  2017-04-16 09:42:02 +0000      570 bytes  blueprints/ng2/files/__path__/app/app.module.ts</tspan>
-<tspan x="10" y="1066"> 51.  2017-04-16 09:42:02 +0000       51 bytes  blueprints/ng2/files/__path__/environments/envir\</tspan>
+<tspan x="10" y="1050"> 50.  2017-04-16 09:45:09 +0000      570 bytes  blueprints/ng2/files/__path__/app/app.module.ts</tspan>
+<tspan x="10" y="1066"> 51.  2017-04-16 09:45:09 +0000       51 bytes  blueprints/ng2/files/__path__/environments/envir\</tspan>
 <tspan x="10" y="1082">onment.prod.ts</tspan>
-<tspan x="10" y="1098"> 52.  2017-04-16 09:42:02 +0000      386 bytes  blueprints/ng2/files/__path__/environments/envir\</tspan>
+<tspan x="10" y="1098"> 52.  2017-04-16 09:45:09 +0000      386 bytes  blueprints/ng2/files/__path__/environments/envir\</tspan>
 <tspan x="10" y="1114">onment.ts</tspan>
-<tspan x="10" y="1130"> 53.  2017-04-16 09:42:02 +0000     5430 bytes  blueprints/ng2/files/__path__/favicon.ico</tspan>
-<tspan x="10" y="1146"> 54.  2017-04-16 09:42:02 +0000      329 bytes  blueprints/ng2/files/__path__/index.html</tspan>
-<tspan x="10" y="1162"> 55.  2017-04-16 09:42:02 +0000      335 bytes  blueprints/ng2/files/__path__/main.ts</tspan>
-<tspan x="10" y="1178"> 56.  2017-04-16 09:42:02 +0000     1162 bytes  blueprints/ng2/files/__path__/polyfills.ts</tspan>
-<tspan x="10" y="1194"> 57.  2017-04-16 09:42:02 +0000       80 bytes  blueprints/ng2/files/__path__/styles.__styleext_\</tspan>
+<tspan x="10" y="1130"> 53.  2017-04-16 09:45:09 +0000     5430 bytes  blueprints/ng2/files/__path__/favicon.ico</tspan>
+<tspan x="10" y="1146"> 54.  2017-04-16 09:45:09 +0000      329 bytes  blueprints/ng2/files/__path__/index.html</tspan>
+<tspan x="10" y="1162"> 55.  2017-04-16 09:45:09 +0000      335 bytes  blueprints/ng2/files/__path__/main.ts</tspan>
+<tspan x="10" y="1178"> 56.  2017-04-16 09:45:09 +0000     1162 bytes  blueprints/ng2/files/__path__/polyfills.ts</tspan>
+<tspan x="10" y="1194"> 57.  2017-04-16 09:45:09 +0000       80 bytes  blueprints/ng2/files/__path__/styles.__styleext_\</tspan>
 <tspan x="10" y="1210">_</tspan>
-<tspan x="10" y="1226"> 58.  2017-04-16 09:42:02 +0000     1081 bytes  blueprints/ng2/files/__path__/test.ts</tspan>
-<tspan x="10" y="1242"> 59.  2017-04-16 09:42:02 +0000      423 bytes  blueprints/ng2/files/__path__/tsconfig.json</tspan>
-<tspan x="10" y="1258"> 60.  2017-04-16 09:42:02 +0000     1390 bytes  blueprints/ng2/files/angular-cli.json</tspan>
-<tspan x="10" y="1274"> 61.  2017-04-16 09:42:02 +0000      382 bytes  blueprints/ng2/files/e2e/app.e2e-spec.ts</tspan>
-<tspan x="10" y="1290"> 62.  2017-04-16 09:42:02 +0000      237 bytes  blueprints/ng2/files/e2e/app.po.ts</tspan>
-<tspan x="10" y="1306"> 63.  2017-04-16 09:42:02 +0000      349 bytes  blueprints/ng2/files/e2e/tsconfig.json</tspan>
-<tspan x="10" y="1322"> 64.  2017-04-16 09:42:02 +0000      488 bytes  blueprints/ng2/files/gitignore</tspan>
-<tspan x="10" y="1338"> 65.  2017-04-16 09:42:02 +0000     1153 bytes  blueprints/ng2/files/karma.conf.js</tspan>
-<tspan x="10" y="1354"> 66.  2017-04-16 09:42:02 +0000     1247 bytes  blueprints/ng2/files/package.json</tspan>
-<tspan x="10" y="1370"> 67.  2017-04-16 09:42:02 +0000      757 bytes  blueprints/ng2/files/protractor.conf.js</tspan>
-<tspan x="10" y="1386"> 68.  2017-04-16 09:42:02 +0000     2711 bytes  blueprints/ng2/files/tslint.json</tspan>
-<tspan x="10" y="1402"> 69.  2017-04-16 09:42:02 +0000       52 bytes  blueprints/ng2/index.d.ts</tspan>
-<tspan x="10" y="1418"> 70.  2017-04-16 09:42:02 +0000     3892 bytes  blueprints/ng2/index.js</tspan>
-<tspan x="10" y="1434"> 71.  2017-04-16 09:42:02 +0000     3804 bytes  blueprints/ng2/index.js.map</tspan>
-<tspan x="10" y="1450"> 72.  2017-04-16 09:42:02 +0000     3265 bytes  blueprints/ng2/index.ts</tspan>
-<tspan x="10" y="1466"> 73.  2017-04-16 09:42:02 +0000      368 bytes  blueprints/pipe/files/__path__/__name__.pipe.spe\</tspan>
+<tspan x="10" y="1226"> 58.  2017-04-16 09:45:09 +0000     1081 bytes  blueprints/ng2/files/__path__/test.ts</tspan>
+<tspan x="10" y="1242"> 59.  2017-04-16 09:45:09 +0000      423 bytes  blueprints/ng2/files/__path__/tsconfig.json</tspan>
+<tspan x="10" y="1258"> 60.  2017-04-16 09:45:09 +0000     1390 bytes  blueprints/ng2/files/angular-cli.json</tspan>
+<tspan x="10" y="1274"> 61.  2017-04-16 09:45:09 +0000      382 bytes  blueprints/ng2/files/e2e/app.e2e-spec.ts</tspan>
+<tspan x="10" y="1290"> 62.  2017-04-16 09:45:09 +0000      237 bytes  blueprints/ng2/files/e2e/app.po.ts</tspan>
+<tspan x="10" y="1306"> 63.  2017-04-16 09:45:09 +0000      349 bytes  blueprints/ng2/files/e2e/tsconfig.json</tspan>
+<tspan x="10" y="1322"> 64.  2017-04-16 09:45:09 +0000      488 bytes  blueprints/ng2/files/gitignore</tspan>
+<tspan x="10" y="1338"> 65.  2017-04-16 09:45:09 +0000     1153 bytes  blueprints/ng2/files/karma.conf.js</tspan>
+<tspan x="10" y="1354"> 66.  2017-04-16 09:45:09 +0000     1247 bytes  blueprints/ng2/files/package.json</tspan>
+<tspan x="10" y="1370"> 67.  2017-04-16 09:45:09 +0000      757 bytes  blueprints/ng2/files/protractor.conf.js</tspan>
+<tspan x="10" y="1386"> 68.  2017-04-16 09:45:09 +0000     2711 bytes  blueprints/ng2/files/tslint.json</tspan>
+<tspan x="10" y="1402"> 69.  2017-04-16 09:45:09 +0000       52 bytes  blueprints/ng2/index.d.ts</tspan>
+<tspan x="10" y="1418"> 70.  2017-04-16 09:45:09 +0000     3892 bytes  blueprints/ng2/index.js</tspan>
+<tspan x="10" y="1434"> 71.  2017-04-16 09:45:09 +0000     3804 bytes  blueprints/ng2/index.js.map</tspan>
+<tspan x="10" y="1450"> 72.  2017-04-16 09:45:09 +0000     3265 bytes  blueprints/ng2/index.ts</tspan>
+<tspan x="10" y="1466"> 73.  2017-04-16 09:45:09 +0000      368 bytes  blueprints/pipe/files/__path__/__name__.pipe.spe\</tspan>
 <tspan x="10" y="1482">c.ts</tspan>
-<tspan x="10" y="1498"> 74.  2017-04-16 09:42:02 +0000      242 bytes  blueprints/pipe/files/__path__/__name__.pipe.ts</tspan>
-<tspan x="10" y="1514"> 75.  2017-04-16 09:42:02 +0000       52 bytes  blueprints/pipe/index.d.ts</tspan>
-<tspan x="10" y="1530"> 76.  2017-04-16 09:42:02 +0000     4407 bytes  blueprints/pipe/index.js</tspan>
-<tspan x="10" y="1546"> 77.  2017-04-16 09:42:02 +0000     4369 bytes  blueprints/pipe/index.js.map</tspan>
-<tspan x="10" y="1562"> 78.  2017-04-16 09:42:02 +0000     3859 bytes  blueprints/pipe/index.ts</tspan>
-<tspan x="10" y="1578"> 79.  2017-04-16 09:42:02 +0000      540 bytes  blueprints/service/files/__path__/__name__.servi\</tspan>
+<tspan x="10" y="1498"> 74.  2017-04-16 09:45:09 +0000      242 bytes  blueprints/pipe/files/__path__/__name__.pipe.ts</tspan>
+<tspan x="10" y="1514"> 75.  2017-04-16 09:45:09 +0000       52 bytes  blueprints/pipe/index.d.ts</tspan>
+<tspan x="10" y="1530"> 76.  2017-04-16 09:45:09 +0000     4407 bytes  blueprints/pipe/index.js</tspan>
+<tspan x="10" y="1546"> 77.  2017-04-16 09:45:09 +0000     4369 bytes  blueprints/pipe/index.js.map</tspan>
+<tspan x="10" y="1562"> 78.  2017-04-16 09:45:09 +0000     3859 bytes  blueprints/pipe/index.ts</tspan>
+<tspan x="10" y="1578"> 79.  2017-04-16 09:45:09 +0000      540 bytes  blueprints/service/files/__path__/__name__.servi\</tspan>
 <tspan x="10" y="1594">ce.spec.ts</tspan>
-<tspan x="10" y="1610"> 80.  2017-04-16 09:42:02 +0000      133 bytes  blueprints/service/files/__path__/__name__.servi\</tspan>
+<tspan x="10" y="1610"> 80.  2017-04-16 09:45:09 +0000      133 bytes  blueprints/service/files/__path__/__name__.servi\</tspan>
 <tspan x="10" y="1626">ce.ts</tspan>
-<tspan x="10" y="1642"> 81.  2017-04-16 09:42:02 +0000       52 bytes  blueprints/service/index.d.ts</tspan>
-<tspan x="10" y="1658"> 82.  2017-04-16 09:42:02 +0000     3949 bytes  blueprints/service/index.js</tspan>
-<tspan x="10" y="1674"> 83.  2017-04-16 09:42:02 +0000     3668 bytes  blueprints/service/index.js.map</tspan>
-<tspan x="10" y="1690"> 84.  2017-04-16 09:42:02 +0000     3361 bytes  blueprints/service/index.ts</tspan>
-<tspan x="10" y="1706"> 85.  2017-04-16 09:42:02 +0000      250 bytes  commands/build.d.ts</tspan>
-<tspan x="10" y="1722"> 86.  2017-04-16 09:42:02 +0000     1948 bytes  commands/build.js</tspan>
-<tspan x="10" y="1738"> 87.  2017-04-16 09:42:02 +0000     2016 bytes  commands/build.js.map</tspan>
-<tspan x="10" y="1754"> 88.  2017-04-16 09:42:02 +0000      117 bytes  commands/build.run.d.ts</tspan>
-<tspan x="10" y="1770"> 89.  2017-04-16 09:42:02 +0000      607 bytes  commands/build.run.js</tspan>
-<tspan x="10" y="1786"> 90.  2017-04-16 09:42:02 +0000      479 bytes  commands/build.run.js.map</tspan>
-<tspan x="10" y="1802"> 91.  2017-04-16 09:42:02 +0000       72 bytes  commands/completion.d.ts</tspan>
-<tspan x="10" y="1818"> 92.  2017-04-16 09:42:02 +0000      717 bytes  commands/completion.js</tspan>
-<tspan x="10" y="1834"> 93.  2017-04-16 09:42:02 +0000      599 bytes  commands/completion.js.map</tspan>
-<tspan x="10" y="1850"> 94.  2017-04-16 09:42:02 +0000       66 bytes  commands/destroy.d.ts</tspan>
-<tspan x="10" y="1866"> 95.  2017-04-16 09:42:02 +0000      642 bytes  commands/destroy.js</tspan>
-<tspan x="10" y="1882"> 96.  2017-04-16 09:42:02 +0000      518 bytes  commands/destroy.js.map</tspan>
-<tspan x="10" y="1898"> 97.  2017-04-16 09:42:02 +0000       58 bytes  commands/doc.d.ts</tspan>
-<tspan x="10" y="1914"> 98.  2017-04-16 09:42:02 +0000      744 bytes  commands/doc.js</tspan>
-<tspan x="10" y="1930"> 99.  2017-04-16 09:42:02 +0000      608 bytes  commands/doc.js.map</tspan>
-<tspan x="10" y="1946">100.  2017-04-16 09:42:02 +0000       58 bytes  commands/e2e.d.ts</tspan>
-<tspan x="10" y="1962">101.  2017-04-16 09:42:02 +0000      751 bytes  commands/e2e.js</tspan>
-<tspan x="10" y="1978">102.  2017-04-16 09:42:02 +0000      646 bytes  commands/e2e.js.map</tspan>
-<tspan x="10" y="1994">103.  2017-04-16 09:42:02 +0000       82 bytes  commands/easter-egg.d.ts</tspan>
-<tspan x="10" y="2010">104.  2017-04-16 09:42:02 +0000     1130 bytes  commands/easter-egg.js</tspan>
-<tspan x="10" y="2026">105.  2017-04-16 09:42:02 +0000      896 bytes  commands/easter-egg.js.map</tspan>
-<tspan x="10" y="2042">106.  2017-04-16 09:42:02 +0000       68 bytes  commands/generate.d.ts</tspan>
-<tspan x="10" y="2058">107.  2017-04-16 09:42:02 +0000     2444 bytes  commands/generate.js</tspan>
-<tspan x="10" y="2074">108.  2017-04-16 09:42:02 +0000     2377 bytes  commands/generate.js.map</tspan>
-<tspan x="10" y="2090">109.  2017-04-16 09:42:02 +0000      112 bytes  commands/get.d.ts</tspan>
-<tspan x="10" y="2106">110.  2017-04-16 09:42:02 +0000     1398 bytes  commands/get.js</tspan>
-<tspan x="10" y="2122">111.  2017-04-16 09:42:02 +0000     1212 bytes  commands/get.js.map</tspan>
-<tspan x="10" y="2138">112.  2017-04-16 09:42:02 +0000      393 bytes  commands/github-pages-deploy.d.ts</tspan>
-<tspan x="10" y="2154">113.  2017-04-16 09:42:02 +0000     2571 bytes  commands/github-pages-deploy.js</tspan>
-<tspan x="10" y="2170">114.  2017-04-16 09:42:02 +0000     1684 bytes  commands/github-pages-deploy.js.map</tspan>
-<tspan x="10" y="2186">115.  2017-04-16 09:42:02 +0000      181 bytes  commands/github-pages-deploy.run.d.ts</tspan>
-<tspan x="10" y="2202">116.  2017-04-16 09:42:02 +0000    10155 bytes  commands/github-pages-deploy.run.js</tspan>
-<tspan x="10" y="2218">117.  2017-04-16 09:42:02 +0000     8254 bytes  commands/github-pages-deploy.run.js.map</tspan>
-<tspan x="10" y="2234">118.  2017-04-16 09:42:02 +0000       60 bytes  commands/help.d.ts</tspan>
-<tspan x="10" y="2250">119.  2017-04-16 09:42:02 +0000     2356 bytes  commands/help.js</tspan>
-<tspan x="10" y="2266">120.  2017-04-16 09:42:02 +0000     2232 bytes  commands/help.js.map</tspan>
-<tspan x="10" y="2282">121.  2017-04-16 09:42:02 +0000       60 bytes  commands/init.d.ts</tspan>
-<tspan x="10" y="2298">122.  2017-04-16 09:42:02 +0000     1746 bytes  commands/init.js</tspan>
-<tspan x="10" y="2314">123.  2017-04-16 09:42:02 +0000     1937 bytes  commands/init.js.map</tspan>
-<tspan x="10" y="2330">124.  2017-04-16 09:42:02 +0000       78 bytes  commands/init.run.d.ts</tspan>
-<tspan x="10" y="2346">125.  2017-04-16 09:42:02 +0000     3385 bytes  commands/init.run.js</tspan>
-<tspan x="10" y="2362">126.  2017-04-16 09:42:02 +0000     3000 bytes  commands/init.run.js.map</tspan>
-<tspan x="10" y="2378">127.  2017-04-16 09:42:02 +0000      153 bytes  commands/lint.d.ts</tspan>
-<tspan x="10" y="2394">128.  2017-04-16 09:42:02 +0000      855 bytes  commands/lint.js</tspan>
-<tspan x="10" y="2410">129.  2017-04-16 09:42:02 +0000      804 bytes  commands/lint.js.map</tspan>
-<tspan x="10" y="2426">130.  2017-04-16 09:42:02 +0000       58 bytes  commands/new.d.ts</tspan>
-<tspan x="10" y="2442">131.  2017-04-16 09:42:02 +0000     4694 bytes  commands/new.js</tspan>
-<tspan x="10" y="2458">132.  2017-04-16 09:42:02 +0000     4128 bytes  commands/new.js.map</tspan>
-<tspan x="10" y="2474">133.  2017-04-16 09:42:02 +0000      492 bytes  commands/serve.d.ts</tspan>
-<tspan x="10" y="2490">134.  2017-04-16 09:42:02 +0000     2651 bytes  commands/serve.js</tspan>
-<tspan x="10" y="2506">135.  2017-04-16 09:42:02 +0000     2118 bytes  commands/serve.js.map</tspan>
-<tspan x="10" y="2522">136.  2017-04-16 09:42:02 +0000      117 bytes  commands/serve.run.d.ts</tspan>
-<tspan x="10" y="2538">137.  2017-04-16 09:42:02 +0000     2303 bytes  commands/serve.run.js</tspan>
-<tspan x="10" y="2554">138.  2017-04-16 09:42:02 +0000     1893 bytes  commands/serve.run.js.map</tspan>
-<tspan x="10" y="2570">139.  2017-04-16 09:42:02 +0000      112 bytes  commands/set.d.ts</tspan>
-<tspan x="10" y="2586">140.  2017-04-16 09:42:02 +0000     2487 bytes  commands/set.js</tspan>
-<tspan x="10" y="2602">141.  2017-04-16 09:42:02 +0000     2147 bytes  commands/set.js.map</tspan>
-<tspan x="10" y="2618">142.  2017-04-16 09:42:02 +0000      343 bytes  commands/test.d.ts</tspan>
-<tspan x="10" y="2634">143.  2017-04-16 09:42:02 +0000     1562 bytes  commands/test.js</tspan>
-<tspan x="10" y="2650">144.  2017-04-16 09:42:02 +0000     1558 bytes  commands/test.js.map</tspan>
-<tspan x="10" y="2666">145.  2017-04-16 09:42:02 +0000       66 bytes  commands/version.d.ts</tspan>
-<tspan x="10" y="2682">146.  2017-04-16 09:42:02 +0000     3553 bytes  commands/version.js</tspan>
-<tspan x="10" y="2698">147.  2017-04-16 09:42:02 +0000     3196 bytes  commands/version.js.map</tspan>
-<tspan x="10" y="2714">148.  2017-04-16 09:42:02 +0000     1128 bytes  ember-cli/LICENSE.md</tspan>
-<tspan x="10" y="2730">149.  2017-04-16 09:42:02 +0000     4990 bytes  ember-cli/lib/cli/cli.js</tspan>
-<tspan x="10" y="2746">150.  2017-04-16 09:42:02 +0000     1552 bytes  ember-cli/lib/cli/index.js</tspan>
-<tspan x="10" y="2762">151.  2017-04-16 09:42:02 +0000     1728 bytes  ember-cli/lib/cli/lookup-command.js</tspan>
-<tspan x="10" y="2778">152.  2017-04-16 09:42:02 +0000       64 bytes  ember-cli/lib/commands.js</tspan>
-<tspan x="10" y="2794">153.  2017-04-16 09:42:02 +0000     4562 bytes  ember-cli/lib/commands/generate.js</tspan>
-<tspan x="10" y="2810">154.  2017-04-16 09:42:02 +0000     3574 bytes  ember-cli/lib/commands/test.js</tspan>
-<tspan x="10" y="2826">155.  2017-04-16 09:42:02 +0000      531 bytes  ember-cli/lib/commands/unknown.js</tspan>
-<tspan x="10" y="2842">156.  2017-04-16 09:42:02 +0000      588 bytes  ember-cli/lib/ext/core-object.js</tspan>
-<tspan x="10" y="2858">157.  2017-04-16 09:42:02 +0000     1739 bytes  ember-cli/lib/ext/promise.js</tspan>
-<tspan x="10" y="2874">158.  2017-04-16 09:42:02 +0000     6453 bytes  ember-cli/lib/models/addon.js</tspan>
-<tspan x="10" y="2890">159.  2017-04-16 09:42:02 +0000    38973 bytes  ember-cli/lib/models/blueprint.js</tspan>
-<tspan x="10" y="2906">160.  2017-04-16 09:42:02 +0000    14425 bytes  ember-cli/lib/models/command.js</tspan>
-<tspan x="10" y="2922">161.  2017-04-16 09:42:02 +0000     1828 bytes  ember-cli/lib/models/edit-file-diff.js</tspan>
-<tspan x="10" y="2938">162.  2017-04-16 09:42:02 +0000     4568 bytes  ember-cli/lib/models/file-info.js</tspan>
-<tspan x="10" y="2954">163.  2017-04-16 09:42:02 +0000     1845 bytes  ember-cli/lib/models/installation-checker.js</tspan>
-<tspan x="10" y="2970">164.  2017-04-16 09:42:02 +0000    16969 bytes  ember-cli/lib/models/project.js</tspan>
-<tspan x="10" y="2986">165.  2017-04-16 09:42:02 +0000      280 bytes  ember-cli/lib/models/task.js</tspan>
-<tspan x="10" y="3002">166.  2017-04-16 09:42:02 +0000     3533 bytes  ember-cli/lib/models/watcher.js</tspan>
-<tspan x="10" y="3018">167.  2017-04-16 09:42:02 +0000      424 bytes  ember-cli/lib/tasks.js</tspan>
-<tspan x="10" y="3034">168.  2017-04-16 09:42:02 +0000     1350 bytes  ember-cli/lib/tasks/create-and-step-into-directo\</tspan>
+<tspan x="10" y="1642"> 81.  2017-04-16 09:45:09 +0000       52 bytes  blueprints/service/index.d.ts</tspan>
+<tspan x="10" y="1658"> 82.  2017-04-16 09:45:09 +0000     3949 bytes  blueprints/service/index.js</tspan>
+<tspan x="10" y="1674"> 83.  2017-04-16 09:45:09 +0000     3668 bytes  blueprints/service/index.js.map</tspan>
+<tspan x="10" y="1690"> 84.  2017-04-16 09:45:09 +0000     3361 bytes  blueprints/service/index.ts</tspan>
+<tspan x="10" y="1706"> 85.  2017-04-16 09:45:09 +0000      250 bytes  commands/build.d.ts</tspan>
+<tspan x="10" y="1722"> 86.  2017-04-16 09:45:09 +0000     1948 bytes  commands/build.js</tspan>
+<tspan x="10" y="1738"> 87.  2017-04-16 09:45:09 +0000     2016 bytes  commands/build.js.map</tspan>
+<tspan x="10" y="1754"> 88.  2017-04-16 09:45:09 +0000      117 bytes  commands/build.run.d.ts</tspan>
+<tspan x="10" y="1770"> 89.  2017-04-16 09:45:09 +0000      607 bytes  commands/build.run.js</tspan>
+<tspan x="10" y="1786"> 90.  2017-04-16 09:45:09 +0000      479 bytes  commands/build.run.js.map</tspan>
+<tspan x="10" y="1802"> 91.  2017-04-16 09:45:09 +0000       72 bytes  commands/completion.d.ts</tspan>
+<tspan x="10" y="1818"> 92.  2017-04-16 09:45:09 +0000      717 bytes  commands/completion.js</tspan>
+<tspan x="10" y="1834"> 93.  2017-04-16 09:45:09 +0000      599 bytes  commands/completion.js.map</tspan>
+<tspan x="10" y="1850"> 94.  2017-04-16 09:45:09 +0000       66 bytes  commands/destroy.d.ts</tspan>
+<tspan x="10" y="1866"> 95.  2017-04-16 09:45:09 +0000      642 bytes  commands/destroy.js</tspan>
+<tspan x="10" y="1882"> 96.  2017-04-16 09:45:09 +0000      518 bytes  commands/destroy.js.map</tspan>
+<tspan x="10" y="1898"> 97.  2017-04-16 09:45:09 +0000       58 bytes  commands/doc.d.ts</tspan>
+<tspan x="10" y="1914"> 98.  2017-04-16 09:45:09 +0000      744 bytes  commands/doc.js</tspan>
+<tspan x="10" y="1930"> 99.  2017-04-16 09:45:09 +0000      608 bytes  commands/doc.js.map</tspan>
+<tspan x="10" y="1946">100.  2017-04-16 09:45:09 +0000       58 bytes  commands/e2e.d.ts</tspan>
+<tspan x="10" y="1962">101.  2017-04-16 09:45:09 +0000      751 bytes  commands/e2e.js</tspan>
+<tspan x="10" y="1978">102.  2017-04-16 09:45:09 +0000      646 bytes  commands/e2e.js.map</tspan>
+<tspan x="10" y="1994">103.  2017-04-16 09:45:09 +0000       82 bytes  commands/easter-egg.d.ts</tspan>
+<tspan x="10" y="2010">104.  2017-04-16 09:45:09 +0000     1130 bytes  commands/easter-egg.js</tspan>
+<tspan x="10" y="2026">105.  2017-04-16 09:45:09 +0000      896 bytes  commands/easter-egg.js.map</tspan>
+<tspan x="10" y="2042">106.  2017-04-16 09:45:09 +0000       68 bytes  commands/generate.d.ts</tspan>
+<tspan x="10" y="2058">107.  2017-04-16 09:45:09 +0000     2444 bytes  commands/generate.js</tspan>
+<tspan x="10" y="2074">108.  2017-04-16 09:45:09 +0000     2377 bytes  commands/generate.js.map</tspan>
+<tspan x="10" y="2090">109.  2017-04-16 09:45:09 +0000      112 bytes  commands/get.d.ts</tspan>
+<tspan x="10" y="2106">110.  2017-04-16 09:45:09 +0000     1398 bytes  commands/get.js</tspan>
+<tspan x="10" y="2122">111.  2017-04-16 09:45:09 +0000     1212 bytes  commands/get.js.map</tspan>
+<tspan x="10" y="2138">112.  2017-04-16 09:45:09 +0000      393 bytes  commands/github-pages-deploy.d.ts</tspan>
+<tspan x="10" y="2154">113.  2017-04-16 09:45:09 +0000     2571 bytes  commands/github-pages-deploy.js</tspan>
+<tspan x="10" y="2170">114.  2017-04-16 09:45:09 +0000     1684 bytes  commands/github-pages-deploy.js.map</tspan>
+<tspan x="10" y="2186">115.  2017-04-16 09:45:09 +0000      181 bytes  commands/github-pages-deploy.run.d.ts</tspan>
+<tspan x="10" y="2202">116.  2017-04-16 09:45:09 +0000    10155 bytes  commands/github-pages-deploy.run.js</tspan>
+<tspan x="10" y="2218">117.  2017-04-16 09:45:09 +0000     8254 bytes  commands/github-pages-deploy.run.js.map</tspan>
+<tspan x="10" y="2234">118.  2017-04-16 09:45:09 +0000       60 bytes  commands/help.d.ts</tspan>
+<tspan x="10" y="2250">119.  2017-04-16 09:45:09 +0000     2356 bytes  commands/help.js</tspan>
+<tspan x="10" y="2266">120.  2017-04-16 09:45:09 +0000     2232 bytes  commands/help.js.map</tspan>
+<tspan x="10" y="2282">121.  2017-04-16 09:45:09 +0000       60 bytes  commands/init.d.ts</tspan>
+<tspan x="10" y="2298">122.  2017-04-16 09:45:09 +0000     1746 bytes  commands/init.js</tspan>
+<tspan x="10" y="2314">123.  2017-04-16 09:45:09 +0000     1937 bytes  commands/init.js.map</tspan>
+<tspan x="10" y="2330">124.  2017-04-16 09:45:09 +0000       78 bytes  commands/init.run.d.ts</tspan>
+<tspan x="10" y="2346">125.  2017-04-16 09:45:09 +0000     3385 bytes  commands/init.run.js</tspan>
+<tspan x="10" y="2362">126.  2017-04-16 09:45:09 +0000     3000 bytes  commands/init.run.js.map</tspan>
+<tspan x="10" y="2378">127.  2017-04-16 09:45:09 +0000      153 bytes  commands/lint.d.ts</tspan>
+<tspan x="10" y="2394">128.  2017-04-16 09:45:09 +0000      855 bytes  commands/lint.js</tspan>
+<tspan x="10" y="2410">129.  2017-04-16 09:45:09 +0000      804 bytes  commands/lint.js.map</tspan>
+<tspan x="10" y="2426">130.  2017-04-16 09:45:09 +0000       58 bytes  commands/new.d.ts</tspan>
+<tspan x="10" y="2442">131.  2017-04-16 09:45:09 +0000     4694 bytes  commands/new.js</tspan>
+<tspan x="10" y="2458">132.  2017-04-16 09:45:09 +0000     4128 bytes  commands/new.js.map</tspan>
+<tspan x="10" y="2474">133.  2017-04-16 09:45:09 +0000      492 bytes  commands/serve.d.ts</tspan>
+<tspan x="10" y="2490">134.  2017-04-16 09:45:09 +0000     2651 bytes  commands/serve.js</tspan>
+<tspan x="10" y="2506">135.  2017-04-16 09:45:09 +0000     2118 bytes  commands/serve.js.map</tspan>
+<tspan x="10" y="2522">136.  2017-04-16 09:45:09 +0000      117 bytes  commands/serve.run.d.ts</tspan>
+<tspan x="10" y="2538">137.  2017-04-16 09:45:09 +0000     2303 bytes  commands/serve.run.js</tspan>
+<tspan x="10" y="2554">138.  2017-04-16 09:45:09 +0000     1893 bytes  commands/serve.run.js.map</tspan>
+<tspan x="10" y="2570">139.  2017-04-16 09:45:09 +0000      112 bytes  commands/set.d.ts</tspan>
+<tspan x="10" y="2586">140.  2017-04-16 09:45:09 +0000     2487 bytes  commands/set.js</tspan>
+<tspan x="10" y="2602">141.  2017-04-16 09:45:09 +0000     2147 bytes  commands/set.js.map</tspan>
+<tspan x="10" y="2618">142.  2017-04-16 09:45:09 +0000      343 bytes  commands/test.d.ts</tspan>
+<tspan x="10" y="2634">143.  2017-04-16 09:45:09 +0000     1562 bytes  commands/test.js</tspan>
+<tspan x="10" y="2650">144.  2017-04-16 09:45:09 +0000     1558 bytes  commands/test.js.map</tspan>
+<tspan x="10" y="2666">145.  2017-04-16 09:45:09 +0000       66 bytes  commands/version.d.ts</tspan>
+<tspan x="10" y="2682">146.  2017-04-16 09:45:09 +0000     3553 bytes  commands/version.js</tspan>
+<tspan x="10" y="2698">147.  2017-04-16 09:45:09 +0000     3196 bytes  commands/version.js.map</tspan>
+<tspan x="10" y="2714">148.  2017-04-16 09:45:09 +0000     1128 bytes  ember-cli/LICENSE.md</tspan>
+<tspan x="10" y="2730">149.  2017-04-16 09:45:09 +0000     4990 bytes  ember-cli/lib/cli/cli.js</tspan>
+<tspan x="10" y="2746">150.  2017-04-16 09:45:09 +0000     1552 bytes  ember-cli/lib/cli/index.js</tspan>
+<tspan x="10" y="2762">151.  2017-04-16 09:45:09 +0000     1728 bytes  ember-cli/lib/cli/lookup-command.js</tspan>
+<tspan x="10" y="2778">152.  2017-04-16 09:45:09 +0000       64 bytes  ember-cli/lib/commands.js</tspan>
+<tspan x="10" y="2794">153.  2017-04-16 09:45:09 +0000     4562 bytes  ember-cli/lib/commands/generate.js</tspan>
+<tspan x="10" y="2810">154.  2017-04-16 09:45:09 +0000     3574 bytes  ember-cli/lib/commands/test.js</tspan>
+<tspan x="10" y="2826">155.  2017-04-16 09:45:09 +0000      531 bytes  ember-cli/lib/commands/unknown.js</tspan>
+<tspan x="10" y="2842">156.  2017-04-16 09:45:09 +0000      588 bytes  ember-cli/lib/ext/core-object.js</tspan>
+<tspan x="10" y="2858">157.  2017-04-16 09:45:09 +0000     1739 bytes  ember-cli/lib/ext/promise.js</tspan>
+<tspan x="10" y="2874">158.  2017-04-16 09:45:09 +0000     6453 bytes  ember-cli/lib/models/addon.js</tspan>
+<tspan x="10" y="2890">159.  2017-04-16 09:45:09 +0000    38973 bytes  ember-cli/lib/models/blueprint.js</tspan>
+<tspan x="10" y="2906">160.  2017-04-16 09:45:09 +0000    14425 bytes  ember-cli/lib/models/command.js</tspan>
+<tspan x="10" y="2922">161.  2017-04-16 09:45:09 +0000     1828 bytes  ember-cli/lib/models/edit-file-diff.js</tspan>
+<tspan x="10" y="2938">162.  2017-04-16 09:45:09 +0000     4568 bytes  ember-cli/lib/models/file-info.js</tspan>
+<tspan x="10" y="2954">163.  2017-04-16 09:45:09 +0000     1845 bytes  ember-cli/lib/models/installation-checker.js</tspan>
+<tspan x="10" y="2970">164.  2017-04-16 09:45:09 +0000    16969 bytes  ember-cli/lib/models/project.js</tspan>
+<tspan x="10" y="2986">165.  2017-04-16 09:45:09 +0000      280 bytes  ember-cli/lib/models/task.js</tspan>
+<tspan x="10" y="3002">166.  2017-04-16 09:45:09 +0000     3533 bytes  ember-cli/lib/models/watcher.js</tspan>
+<tspan x="10" y="3018">167.  2017-04-16 09:45:09 +0000      424 bytes  ember-cli/lib/tasks.js</tspan>
+<tspan x="10" y="3034">168.  2017-04-16 09:45:09 +0000     1350 bytes  ember-cli/lib/tasks/create-and-step-into-directo\</tspan>
 <tspan x="10" y="3050">ry.js</tspan>
-<tspan x="10" y="3066">169.  2017-04-16 09:42:02 +0000      173 bytes  ember-cli/lib/tasks/destroy-from-blueprint.js</tspan>
-<tspan x="10" y="3082">170.  2017-04-16 09:42:02 +0000     3001 bytes  ember-cli/lib/tasks/generate-from-blueprint.js</tspan>
-<tspan x="10" y="3098">171.  2017-04-16 09:42:02 +0000     1617 bytes  ember-cli/lib/tasks/git-init.js</tspan>
-<tspan x="10" y="3114">172.  2017-04-16 09:42:02 +0000     1361 bytes  ember-cli/lib/tasks/install-blueprint.js</tspan>
-<tspan x="10" y="3130">173.  2017-04-16 09:42:02 +0000      273 bytes  ember-cli/lib/tasks/npm-install.js</tspan>
-<tspan x="10" y="3146">174.  2017-04-16 09:42:02 +0000     1771 bytes  ember-cli/lib/tasks/npm-task.js</tspan>
-<tspan x="10" y="3162">175.  2017-04-16 09:42:02 +0000     6088 bytes  ember-cli/lib/ui/index.js</tspan>
-<tspan x="10" y="3178">176.  2017-04-16 09:42:02 +0000      626 bytes  ember-cli/lib/ui/write-error.js</tspan>
-<tspan x="10" y="3194">177.  2017-04-16 09:42:02 +0000     2349 bytes  ember-cli/lib/utilities/COMMIT_MESSAGE.txt</tspan>
-<tspan x="10" y="3210">178.  2017-04-16 09:42:02 +0000     2316 bytes  ember-cli/lib/utilities/DAG.js</tspan>
-<tspan x="10" y="3226">179.  2017-04-16 09:42:02 +0000      367 bytes  ember-cli/lib/utilities/get-option-args.js</tspan>
-<tspan x="10" y="3242">180.  2017-04-16 09:42:02 +0000      195 bytes  ember-cli/lib/utilities/get-package-base-name.js</tspan>
-<tspan x="10" y="3258">181.  2017-04-16 09:42:02 +0000      852 bytes  ember-cli/lib/utilities/merge-blueprint-options.\</tspan>
+<tspan x="10" y="3066">169.  2017-04-16 09:45:09 +0000      173 bytes  ember-cli/lib/tasks/destroy-from-blueprint.js</tspan>
+<tspan x="10" y="3082">170.  2017-04-16 09:45:09 +0000     3001 bytes  ember-cli/lib/tasks/generate-from-blueprint.js</tspan>
+<tspan x="10" y="3098">171.  2017-04-16 09:45:09 +0000     1617 bytes  ember-cli/lib/tasks/git-init.js</tspan>
+<tspan x="10" y="3114">172.  2017-04-16 09:45:09 +0000     1361 bytes  ember-cli/lib/tasks/install-blueprint.js</tspan>
+<tspan x="10" y="3130">173.  2017-04-16 09:45:09 +0000      273 bytes  ember-cli/lib/tasks/npm-install.js</tspan>
+<tspan x="10" y="3146">174.  2017-04-16 09:45:09 +0000     1771 bytes  ember-cli/lib/tasks/npm-task.js</tspan>
+<tspan x="10" y="3162">175.  2017-04-16 09:45:09 +0000     6088 bytes  ember-cli/lib/ui/index.js</tspan>
+<tspan x="10" y="3178">176.  2017-04-16 09:45:09 +0000      626 bytes  ember-cli/lib/ui/write-error.js</tspan>
+<tspan x="10" y="3194">177.  2017-04-16 09:45:09 +0000     2349 bytes  ember-cli/lib/utilities/COMMIT_MESSAGE.txt</tspan>
+<tspan x="10" y="3210">178.  2017-04-16 09:45:09 +0000     2316 bytes  ember-cli/lib/utilities/DAG.js</tspan>
+<tspan x="10" y="3226">179.  2017-04-16 09:45:09 +0000      367 bytes  ember-cli/lib/utilities/get-option-args.js</tspan>
+<tspan x="10" y="3242">180.  2017-04-16 09:45:09 +0000      195 bytes  ember-cli/lib/utilities/get-package-base-name.js</tspan>
+<tspan x="10" y="3258">181.  2017-04-16 09:45:09 +0000      852 bytes  ember-cli/lib/utilities/merge-blueprint-options.\</tspan>
 <tspan x="10" y="3274">js</tspan>
-<tspan x="10" y="3290">182.  2017-04-16 09:42:02 +0000      548 bytes  ember-cli/lib/utilities/mk-tmp-dir-in.js</tspan>
-<tspan x="10" y="3306">183.  2017-04-16 09:42:02 +0000      195 bytes  ember-cli/lib/utilities/normalize-blueprint-opti\</tspan>
+<tspan x="10" y="3290">182.  2017-04-16 09:45:09 +0000      548 bytes  ember-cli/lib/utilities/mk-tmp-dir-in.js</tspan>
+<tspan x="10" y="3306">183.  2017-04-16 09:45:09 +0000      195 bytes  ember-cli/lib/utilities/normalize-blueprint-opti\</tspan>
 <tspan x="10" y="3322">on.js</tspan>
-<tspan x="10" y="3338">184.  2017-04-16 09:42:02 +0000      935 bytes  ember-cli/lib/utilities/open-editor.js</tspan>
-<tspan x="10" y="3354">185.  2017-04-16 09:42:02 +0000      261 bytes  ember-cli/lib/utilities/parse-options.js</tspan>
-<tspan x="10" y="3370">186.  2017-04-16 09:42:02 +0000     1031 bytes  ember-cli/lib/utilities/path.js</tspan>
-<tspan x="10" y="3386">187.  2017-04-16 09:42:02 +0000      925 bytes  ember-cli/lib/utilities/platform-checker.js</tspan>
-<tspan x="10" y="3402">188.  2017-04-16 09:42:02 +0000     2476 bytes  ember-cli/lib/utilities/print-command.js</tspan>
-<tspan x="10" y="3418">189.  2017-04-16 09:42:02 +0000      763 bytes  ember-cli/lib/utilities/printable-properties.js</tspan>
-<tspan x="10" y="3434">190.  2017-04-16 09:42:02 +0000      896 bytes  ember-cli/lib/utilities/sequence.js</tspan>
-<tspan x="10" y="3450">191.  2017-04-16 09:42:02 +0000      300 bytes  ember-cli/lib/utilities/valid-project-name.js</tspan>
-<tspan x="10" y="3466">192.  2017-04-16 09:42:02 +0000     1227 bytes  lib/cli/index.js</tspan>
-<tspan x="10" y="3482">193.  2017-04-16 09:42:02 +0000     8273 bytes  lib/config/schema.json</tspan>
-<tspan x="10" y="3498">194.  2017-04-16 09:42:02 +0000      590 bytes  lib/webpack/compression-plugin.d.ts</tspan>
-<tspan x="10" y="3514">195.  2017-04-16 09:42:02 +0000     3595 bytes  lib/webpack/compression-plugin.js</tspan>
-<tspan x="10" y="3530">196.  2017-04-16 09:42:02 +0000     3295 bytes  lib/webpack/compression-plugin.js.map</tspan>
-<tspan x="10" y="3546">197.  2017-04-16 09:42:02 +0000      386 bytes  models/config.d.ts</tspan>
-<tspan x="10" y="3562">198.  2017-04-16 09:42:02 +0000     4298 bytes  models/config.js</tspan>
-<tspan x="10" y="3578">199.  2017-04-16 09:42:02 +0000     2590 bytes  models/config.js.map</tspan>
-<tspan x="10" y="3594">200.  2017-04-16 09:42:02 +0000      762 bytes  models/config/config.d.ts</tspan>
-<tspan x="10" y="3610">201.  2017-04-16 09:42:02 +0000     4251 bytes  models/config/config.js</tspan>
-<tspan x="10" y="3626">202.  2017-04-16 09:42:02 +0000     3282 bytes  models/config/config.js.map</tspan>
-<tspan x="10" y="3642">203.  2017-04-16 09:42:02 +0000     1283 bytes  models/config/spec-schema.json</tspan>
-<tspan x="10" y="3658">204.  2017-04-16 09:42:02 +0000      120 bytes  models/error.d.ts</tspan>
-<tspan x="10" y="3674">205.  2017-04-16 09:42:02 +0000      741 bytes  models/error.js</tspan>
-<tspan x="10" y="3690">206.  2017-04-16 09:42:02 +0000      408 bytes  models/error.js.map</tspan>
-<tspan x="10" y="3706">207.  2017-04-16 09:42:02 +0000      878 bytes  models/webpack-config.d.ts</tspan>
-<tspan x="10" y="3722">208.  2017-04-16 09:42:02 +0000     3712 bytes  models/webpack-config.js</tspan>
-<tspan x="10" y="3738">209.  2017-04-16 09:42:02 +0000     2670 bytes  models/webpack-config.js.map</tspan>
-<tspan x="10" y="3754">210.  2017-04-16 09:42:02 +0000     1320 bytes  models/webpack-configs/common.d.ts</tspan>
-<tspan x="10" y="3770">211.  2017-04-16 09:42:02 +0000     6419 bytes  models/webpack-configs/common.js</tspan>
-<tspan x="10" y="3786">212.  2017-04-16 09:42:02 +0000     5013 bytes  models/webpack-configs/common.js.map</tspan>
-<tspan x="10" y="3802">213.  2017-04-16 09:42:02 +0000      128 bytes  models/webpack-configs/development.d.ts</tspan>
-<tspan x="10" y="3818">214.  2017-04-16 09:42:02 +0000      187 bytes  models/webpack-configs/development.js</tspan>
-<tspan x="10" y="3834">215.  2017-04-16 09:42:02 +0000      199 bytes  models/webpack-configs/development.js.map</tspan>
-<tspan x="10" y="3850">216.  2017-04-16 09:42:02 +0000      168 bytes  models/webpack-configs/index.d.ts</tspan>
-<tspan x="10" y="3866">217.  2017-04-16 09:42:02 +0000      418 bytes  models/webpack-configs/index.js</tspan>
-<tspan x="10" y="3882">218.  2017-04-16 09:42:02 +0000      283 bytes  models/webpack-configs/index.js.map</tspan>
-<tspan x="10" y="3898">219.  2017-04-16 09:42:02 +0000      231 bytes  models/webpack-configs/production.d.ts</tspan>
-<tspan x="10" y="3914">220.  2017-04-16 09:42:02 +0000     1112 bytes  models/webpack-configs/production.js</tspan>
-<tspan x="10" y="3930">221.  2017-04-16 09:42:02 +0000      846 bytes  models/webpack-configs/production.js.map</tspan>
-<tspan x="10" y="3946">222.  2017-04-16 09:42:02 +0000      620 bytes  models/webpack-configs/styles.d.ts</tspan>
-<tspan x="10" y="3962">223.  2017-04-16 09:42:02 +0000     5881 bytes  models/webpack-configs/styles.js</tspan>
-<tspan x="10" y="3978">224.  2017-04-16 09:42:02 +0000     3772 bytes  models/webpack-configs/styles.js.map</tspan>
-<tspan x="10" y="3994">225.  2017-04-16 09:42:02 +0000     3944 bytes  models/webpack-configs/test.js</tspan>
-<tspan x="10" y="4010">226.  2017-04-16 09:42:02 +0000      573 bytes  models/webpack-configs/typescript.d.ts</tspan>
-<tspan x="10" y="4026">227.  2017-04-16 09:42:02 +0000     2164 bytes  models/webpack-configs/typescript.js</tspan>
-<tspan x="10" y="4042">228.  2017-04-16 09:42:02 +0000     1845 bytes  models/webpack-configs/typescript.js.map</tspan>
-<tspan x="10" y="4058">229.  2017-04-16 09:42:02 +0000      907 bytes  models/webpack-configs/utils.d.ts</tspan>
-<tspan x="10" y="4074">230.  2017-04-16 09:42:02 +0000     2767 bytes  models/webpack-configs/utils.js</tspan>
-<tspan x="10" y="4090">231.  2017-04-16 09:42:02 +0000     2405 bytes  models/webpack-configs/utils.js.map</tspan>
-<tspan x="10" y="4106">232.  2017-04-16 09:42:02 +0000     3722 bytes  package.json</tspan>
-<tspan x="10" y="4122">233.  2017-04-16 09:42:02 +0000      252 bytes  plugins/glob-copy-webpack-plugin.d.ts</tspan>
-<tspan x="10" y="4138">234.  2017-04-16 09:42:02 +0000     2062 bytes  plugins/glob-copy-webpack-plugin.js</tspan>
-<tspan x="10" y="4154">235.  2017-04-16 09:42:02 +0000     1927 bytes  plugins/glob-copy-webpack-plugin.js.map</tspan>
-<tspan x="10" y="4170">236.  2017-04-16 09:42:02 +0000     4339 bytes  plugins/karma.js</tspan>
-<tspan x="10" y="4186">237.  2017-04-16 09:42:02 +0000      117 bytes  plugins/suppress-entry-chunks-webpack-plugin.d.t\</tspan>
+<tspan x="10" y="3338">184.  2017-04-16 09:45:09 +0000      935 bytes  ember-cli/lib/utilities/open-editor.js</tspan>
+<tspan x="10" y="3354">185.  2017-04-16 09:45:09 +0000      261 bytes  ember-cli/lib/utilities/parse-options.js</tspan>
+<tspan x="10" y="3370">186.  2017-04-16 09:45:09 +0000     1031 bytes  ember-cli/lib/utilities/path.js</tspan>
+<tspan x="10" y="3386">187.  2017-04-16 09:45:09 +0000      925 bytes  ember-cli/lib/utilities/platform-checker.js</tspan>
+<tspan x="10" y="3402">188.  2017-04-16 09:45:09 +0000     2476 bytes  ember-cli/lib/utilities/print-command.js</tspan>
+<tspan x="10" y="3418">189.  2017-04-16 09:45:09 +0000      763 bytes  ember-cli/lib/utilities/printable-properties.js</tspan>
+<tspan x="10" y="3434">190.  2017-04-16 09:45:09 +0000      896 bytes  ember-cli/lib/utilities/sequence.js</tspan>
+<tspan x="10" y="3450">191.  2017-04-16 09:45:09 +0000      300 bytes  ember-cli/lib/utilities/valid-project-name.js</tspan>
+<tspan x="10" y="3466">192.  2017-04-16 09:45:09 +0000     1227 bytes  lib/cli/index.js</tspan>
+<tspan x="10" y="3482">193.  2017-04-16 09:45:09 +0000     8273 bytes  lib/config/schema.json</tspan>
+<tspan x="10" y="3498">194.  2017-04-16 09:45:09 +0000      590 bytes  lib/webpack/compression-plugin.d.ts</tspan>
+<tspan x="10" y="3514">195.  2017-04-16 09:45:09 +0000     3595 bytes  lib/webpack/compression-plugin.js</tspan>
+<tspan x="10" y="3530">196.  2017-04-16 09:45:09 +0000     3295 bytes  lib/webpack/compression-plugin.js.map</tspan>
+<tspan x="10" y="3546">197.  2017-04-16 09:45:09 +0000      386 bytes  models/config.d.ts</tspan>
+<tspan x="10" y="3562">198.  2017-04-16 09:45:09 +0000     4298 bytes  models/config.js</tspan>
+<tspan x="10" y="3578">199.  2017-04-16 09:45:09 +0000     2590 bytes  models/config.js.map</tspan>
+<tspan x="10" y="3594">200.  2017-04-16 09:45:09 +0000      762 bytes  models/config/config.d.ts</tspan>
+<tspan x="10" y="3610">201.  2017-04-16 09:45:09 +0000     4251 bytes  models/config/config.js</tspan>
+<tspan x="10" y="3626">202.  2017-04-16 09:45:09 +0000     3282 bytes  models/config/config.js.map</tspan>
+<tspan x="10" y="3642">203.  2017-04-16 09:45:09 +0000     1283 bytes  models/config/spec-schema.json</tspan>
+<tspan x="10" y="3658">204.  2017-04-16 09:45:09 +0000      120 bytes  models/error.d.ts</tspan>
+<tspan x="10" y="3674">205.  2017-04-16 09:45:09 +0000      741 bytes  models/error.js</tspan>
+<tspan x="10" y="3690">206.  2017-04-16 09:45:09 +0000      408 bytes  models/error.js.map</tspan>
+<tspan x="10" y="3706">207.  2017-04-16 09:45:09 +0000      878 bytes  models/webpack-config.d.ts</tspan>
+<tspan x="10" y="3722">208.  2017-04-16 09:45:09 +0000     3712 bytes  models/webpack-config.js</tspan>
+<tspan x="10" y="3738">209.  2017-04-16 09:45:09 +0000     2670 bytes  models/webpack-config.js.map</tspan>
+<tspan x="10" y="3754">210.  2017-04-16 09:45:09 +0000     1320 bytes  models/webpack-configs/common.d.ts</tspan>
+<tspan x="10" y="3770">211.  2017-04-16 09:45:09 +0000     6419 bytes  models/webpack-configs/common.js</tspan>
+<tspan x="10" y="3786">212.  2017-04-16 09:45:09 +0000     5013 bytes  models/webpack-configs/common.js.map</tspan>
+<tspan x="10" y="3802">213.  2017-04-16 09:45:09 +0000      128 bytes  models/webpack-configs/development.d.ts</tspan>
+<tspan x="10" y="3818">214.  2017-04-16 09:45:09 +0000      187 bytes  models/webpack-configs/development.js</tspan>
+<tspan x="10" y="3834">215.  2017-04-16 09:45:09 +0000      199 bytes  models/webpack-configs/development.js.map</tspan>
+<tspan x="10" y="3850">216.  2017-04-16 09:45:09 +0000      168 bytes  models/webpack-configs/index.d.ts</tspan>
+<tspan x="10" y="3866">217.  2017-04-16 09:45:09 +0000      418 bytes  models/webpack-configs/index.js</tspan>
+<tspan x="10" y="3882">218.  2017-04-16 09:45:09 +0000      283 bytes  models/webpack-configs/index.js.map</tspan>
+<tspan x="10" y="3898">219.  2017-04-16 09:45:09 +0000      231 bytes  models/webpack-configs/production.d.ts</tspan>
+<tspan x="10" y="3914">220.  2017-04-16 09:45:09 +0000     1112 bytes  models/webpack-configs/production.js</tspan>
+<tspan x="10" y="3930">221.  2017-04-16 09:45:09 +0000      846 bytes  models/webpack-configs/production.js.map</tspan>
+<tspan x="10" y="3946">222.  2017-04-16 09:45:09 +0000      620 bytes  models/webpack-configs/styles.d.ts</tspan>
+<tspan x="10" y="3962">223.  2017-04-16 09:45:09 +0000     5881 bytes  models/webpack-configs/styles.js</tspan>
+<tspan x="10" y="3978">224.  2017-04-16 09:45:09 +0000     3772 bytes  models/webpack-configs/styles.js.map</tspan>
+<tspan x="10" y="3994">225.  2017-04-16 09:45:09 +0000     3944 bytes  models/webpack-configs/test.js</tspan>
+<tspan x="10" y="4010">226.  2017-04-16 09:45:09 +0000      573 bytes  models/webpack-configs/typescript.d.ts</tspan>
+<tspan x="10" y="4026">227.  2017-04-16 09:45:09 +0000     2164 bytes  models/webpack-configs/typescript.js</tspan>
+<tspan x="10" y="4042">228.  2017-04-16 09:45:09 +0000     1845 bytes  models/webpack-configs/typescript.js.map</tspan>
+<tspan x="10" y="4058">229.  2017-04-16 09:45:09 +0000      907 bytes  models/webpack-configs/utils.d.ts</tspan>
+<tspan x="10" y="4074">230.  2017-04-16 09:45:09 +0000     2767 bytes  models/webpack-configs/utils.js</tspan>
+<tspan x="10" y="4090">231.  2017-04-16 09:45:09 +0000     2405 bytes  models/webpack-configs/utils.js.map</tspan>
+<tspan x="10" y="4106">232.  2017-04-16 09:45:09 +0000     3722 bytes  package.json</tspan>
+<tspan x="10" y="4122">233.  2017-04-16 09:45:09 +0000      252 bytes  plugins/glob-copy-webpack-plugin.d.ts</tspan>
+<tspan x="10" y="4138">234.  2017-04-16 09:45:09 +0000     2062 bytes  plugins/glob-copy-webpack-plugin.js</tspan>
+<tspan x="10" y="4154">235.  2017-04-16 09:45:09 +0000     1927 bytes  plugins/glob-copy-webpack-plugin.js.map</tspan>
+<tspan x="10" y="4170">236.  2017-04-16 09:45:09 +0000     4339 bytes  plugins/karma.js</tspan>
+<tspan x="10" y="4186">237.  2017-04-16 09:45:09 +0000      117 bytes  plugins/suppress-entry-chunks-webpack-plugin.d.t\</tspan>
 <tspan x="10" y="4202">s</tspan>
-<tspan x="10" y="4218">238.  2017-04-16 09:42:02 +0000     2791 bytes  plugins/suppress-entry-chunks-webpack-plugin.js</tspan>
-<tspan x="10" y="4234">239.  2017-04-16 09:42:02 +0000     1884 bytes  plugins/suppress-entry-chunks-webpack-plugin.js.\</tspan>
+<tspan x="10" y="4218">238.  2017-04-16 09:45:09 +0000     2791 bytes  plugins/suppress-entry-chunks-webpack-plugin.js</tspan>
+<tspan x="10" y="4234">239.  2017-04-16 09:45:09 +0000     1884 bytes  plugins/suppress-entry-chunks-webpack-plugin.js.\</tspan>
 <tspan x="10" y="4250">map</tspan>
-<tspan x="10" y="4266">240.  2017-04-16 09:42:02 +0000       52 bytes  tasks/build.d.ts</tspan>
-<tspan x="10" y="4282">241.  2017-04-16 09:42:02 +0000     1957 bytes  tasks/build.js</tspan>
-<tspan x="10" y="4298">242.  2017-04-16 09:42:02 +0000     1781 bytes  tasks/build.js.map</tspan>
-<tspan x="10" y="4314">243.  2017-04-16 09:42:02 +0000       52 bytes  tasks/create-github-repo.d.ts</tspan>
-<tspan x="10" y="4330">244.  2017-04-16 09:42:02 +0000     4438 bytes  tasks/create-github-repo.js</tspan>
-<tspan x="10" y="4346">245.  2017-04-16 09:42:02 +0000     2566 bytes  tasks/create-github-repo.js.map</tspan>
-<tspan x="10" y="4362">246.  2017-04-16 09:42:02 +0000       35 bytes  tasks/doc.d.ts</tspan>
-<tspan x="10" y="4378">247.  2017-04-16 09:42:02 +0000      387 bytes  tasks/doc.js</tspan>
-<tspan x="10" y="4394">248.  2017-04-16 09:42:02 +0000      387 bytes  tasks/doc.js.map</tspan>
-<tspan x="10" y="4410">249.  2017-04-16 09:42:02 +0000       35 bytes  tasks/e2e.d.ts</tspan>
-<tspan x="10" y="4426">250.  2017-04-16 09:42:02 +0000      993 bytes  tasks/e2e.js</tspan>
-<tspan x="10" y="4442">251.  2017-04-16 09:42:02 +0000      942 bytes  tasks/e2e.js.map</tspan>
-<tspan x="10" y="4458">252.  2017-04-16 09:42:02 +0000     2134 bytes  tasks/git-init.js</tspan>
-<tspan x="10" y="4474">253.  2017-04-16 09:42:02 +0000       52 bytes  tasks/link-cli.d.ts</tspan>
-<tspan x="10" y="4490">254.  2017-04-16 09:42:02 +0000      871 bytes  tasks/link-cli.js</tspan>
-<tspan x="10" y="4506">255.  2017-04-16 09:42:02 +0000      727 bytes  tasks/link-cli.js.map</tspan>
-<tspan x="10" y="4522">256.  2017-04-16 09:42:02 +0000       52 bytes  tasks/lint.d.ts</tspan>
-<tspan x="10" y="4538">257.  2017-04-16 09:42:02 +0000     2484 bytes  tasks/lint.js</tspan>
-<tspan x="10" y="4554">258.  2017-04-16 09:42:02 +0000     2061 bytes  tasks/lint.js.map</tspan>
-<tspan x="10" y="4570">259.  2017-04-16 09:42:02 +0000       52 bytes  tasks/npm-install.d.ts</tspan>
-<tspan x="10" y="4586">260.  2017-04-16 09:42:02 +0000     1006 bytes  tasks/npm-install.js</tspan>
-<tspan x="10" y="4602">261.  2017-04-16 09:42:02 +0000      863 bytes  tasks/npm-install.js.map</tspan>
-<tspan x="10" y="4618">262.  2017-04-16 09:42:02 +0000       52 bytes  tasks/serve.d.ts</tspan>
-<tspan x="10" y="4634">263.  2017-04-16 09:42:02 +0000     7764 bytes  tasks/serve.js</tspan>
-<tspan x="10" y="4650">264.  2017-04-16 09:42:02 +0000     5505 bytes  tasks/serve.js.map</tspan>
-<tspan x="10" y="4666">265.  2017-04-16 09:42:02 +0000       52 bytes  tasks/test.d.ts</tspan>
-<tspan x="10" y="4682">266.  2017-04-16 09:42:02 +0000     1413 bytes  tasks/test.js</tspan>
-<tspan x="10" y="4698">267.  2017-04-16 09:42:02 +0000     1112 bytes  tasks/test.js.map</tspan>
-<tspan x="10" y="4714">268.  2017-04-16 09:42:02 +0000      719 bytes  upgrade/version.d.ts</tspan>
-<tspan x="10" y="4730">269.  2017-04-16 09:42:02 +0000     8482 bytes  upgrade/version.js</tspan>
-<tspan x="10" y="4746">270.  2017-04-16 09:42:02 +0000     5756 bytes  upgrade/version.js.map</tspan>
-<tspan x="10" y="4762">271.  2017-04-16 09:42:02 +0000      377 bytes  utilities/INITIAL_COMMIT_MESSAGE.txt</tspan>
-<tspan x="10" y="4778">272.  2017-04-16 09:42:02 +0000      216 bytes  utilities/ast-utils.d.ts</tspan>
-<tspan x="10" y="4794">273.  2017-04-16 09:42:02 +0000      840 bytes  utilities/ast-utils.js</tspan>
-<tspan x="10" y="4810">274.  2017-04-16 09:42:02 +0000      274 bytes  utilities/ast-utils.js.map</tspan>
-<tspan x="10" y="4826">275.  2017-04-16 09:42:02 +0000      117 bytes  utilities/change.d.ts</tspan>
-<tspan x="10" y="4842">276.  2017-04-16 09:42:02 +0000      405 bytes  utilities/change.js</tspan>
-<tspan x="10" y="4858">277.  2017-04-16 09:42:02 +0000      188 bytes  utilities/change.js.map</tspan>
-<tspan x="10" y="4874">278.  2017-04-16 09:42:02 +0000     3411 bytes  utilities/completion.sh</tspan>
-<tspan x="10" y="4890">279.  2017-04-16 09:42:02 +0000     1923 bytes  utilities/dynamic-path-parser.js</tspan>
-<tspan x="10" y="4906">280.  2017-04-16 09:42:02 +0000       84 bytes  utilities/find-parent-module.d.ts</tspan>
-<tspan x="10" y="4922">281.  2017-04-16 09:42:02 +0000     1463 bytes  utilities/find-parent-module.js</tspan>
-<tspan x="10" y="4938">282.  2017-04-16 09:42:02 +0000     1527 bytes  utilities/find-parent-module.js.map</tspan>
-<tspan x="10" y="4954">283.  2017-04-16 09:42:02 +0000     2633 bytes  utilities/get-dependent-files.d.ts</tspan>
-<tspan x="10" y="4970">284.  2017-04-16 09:42:02 +0000     5564 bytes  utilities/get-dependent-files.js</tspan>
-<tspan x="10" y="4986">285.  2017-04-16 09:42:02 +0000     3813 bytes  utilities/get-dependent-files.js.map</tspan>
-<tspan x="10" y="5002">286.  2017-04-16 09:42:02 +0000     1786 bytes  utilities/module-resolver.d.ts</tspan>
-<tspan x="10" y="5018">287.  2017-04-16 09:42:02 +0000     5422 bytes  utilities/module-resolver.js</tspan>
-<tspan x="10" y="5034">288.  2017-04-16 09:42:02 +0000     3724 bytes  utilities/module-resolver.js.map</tspan>
-<tspan x="10" y="5050">289.  2017-04-16 09:42:02 +0000       93 bytes  utilities/package-chunk-sort.d.ts</tspan>
-<tspan x="10" y="5066">290.  2017-04-16 09:42:02 +0000     1280 bytes  utilities/package-chunk-sort.js</tspan>
-<tspan x="10" y="5082">291.  2017-04-16 09:42:02 +0000     1323 bytes  utilities/package-chunk-sort.js.map</tspan>
-<tspan x="10" y="5098">292.  2017-04-16 09:42:02 +0000      337 bytes  utilities/prerender-webpack-plugin.d.ts</tspan>
-<tspan x="10" y="5114">293.  2017-04-16 09:42:02 +0000     2232 bytes  utilities/prerender-webpack-plugin.js</tspan>
-<tspan x="10" y="5130">294.  2017-04-16 09:42:02 +0000     1636 bytes  utilities/prerender-webpack-plugin.js.map</tspan>
-<tspan x="10" y="5146">295.  2017-04-16 09:42:02 +0000       82 bytes  utilities/require-project-module.d.ts</tspan>
-<tspan x="10" y="5162">296.  2017-04-16 09:42:02 +0000      513 bytes  utilities/require-project-module.js</tspan>
-<tspan x="10" y="5178">297.  2017-04-16 09:42:02 +0000      515 bytes  utilities/require-project-module.js.map</tspan>
-<tspan x="10" y="5194">298.  2017-04-16 09:42:02 +0000      174 bytes  utilities/route-utils.d.ts</tspan>
-<tspan x="10" y="5210">299.  2017-04-16 09:42:02 +0000      716 bytes  utilities/route-utils.js</tspan>
-<tspan x="10" y="5226">300.  2017-04-16 09:42:02 +0000      252 bytes  utilities/route-utils.js.map</tspan>
+<tspan x="10" y="4266">240.  2017-04-16 09:45:09 +0000       52 bytes  tasks/build.d.ts</tspan>
+<tspan x="10" y="4282">241.  2017-04-16 09:45:09 +0000     1957 bytes  tasks/build.js</tspan>
+<tspan x="10" y="4298">242.  2017-04-16 09:45:09 +0000     1781 bytes  tasks/build.js.map</tspan>
+<tspan x="10" y="4314">243.  2017-04-16 09:45:09 +0000       52 bytes  tasks/create-github-repo.d.ts</tspan>
+<tspan x="10" y="4330">244.  2017-04-16 09:45:09 +0000     4438 bytes  tasks/create-github-repo.js</tspan>
+<tspan x="10" y="4346">245.  2017-04-16 09:45:09 +0000     2566 bytes  tasks/create-github-repo.js.map</tspan>
+<tspan x="10" y="4362">246.  2017-04-16 09:45:09 +0000       35 bytes  tasks/doc.d.ts</tspan>
+<tspan x="10" y="4378">247.  2017-04-16 09:45:09 +0000      387 bytes  tasks/doc.js</tspan>
+<tspan x="10" y="4394">248.  2017-04-16 09:45:09 +0000      387 bytes  tasks/doc.js.map</tspan>
+<tspan x="10" y="4410">249.  2017-04-16 09:45:09 +0000       35 bytes  tasks/e2e.d.ts</tspan>
+<tspan x="10" y="4426">250.  2017-04-16 09:45:09 +0000      993 bytes  tasks/e2e.js</tspan>
+<tspan x="10" y="4442">251.  2017-04-16 09:45:09 +0000      942 bytes  tasks/e2e.js.map</tspan>
+<tspan x="10" y="4458">252.  2017-04-16 09:45:09 +0000     2134 bytes  tasks/git-init.js</tspan>
+<tspan x="10" y="4474">253.  2017-04-16 09:45:09 +0000       52 bytes  tasks/link-cli.d.ts</tspan>
+<tspan x="10" y="4490">254.  2017-04-16 09:45:09 +0000      871 bytes  tasks/link-cli.js</tspan>
+<tspan x="10" y="4506">255.  2017-04-16 09:45:09 +0000      727 bytes  tasks/link-cli.js.map</tspan>
+<tspan x="10" y="4522">256.  2017-04-16 09:45:09 +0000       52 bytes  tasks/lint.d.ts</tspan>
+<tspan x="10" y="4538">257.  2017-04-16 09:45:09 +0000     2484 bytes  tasks/lint.js</tspan>
+<tspan x="10" y="4554">258.  2017-04-16 09:45:09 +0000     2061 bytes  tasks/lint.js.map</tspan>
+<tspan x="10" y="4570">259.  2017-04-16 09:45:09 +0000       52 bytes  tasks/npm-install.d.ts</tspan>
+<tspan x="10" y="4586">260.  2017-04-16 09:45:09 +0000     1006 bytes  tasks/npm-install.js</tspan>
+<tspan x="10" y="4602">261.  2017-04-16 09:45:09 +0000      863 bytes  tasks/npm-install.js.map</tspan>
+<tspan x="10" y="4618">262.  2017-04-16 09:45:09 +0000       52 bytes  tasks/serve.d.ts</tspan>
+<tspan x="10" y="4634">263.  2017-04-16 09:45:09 +0000     7764 bytes  tasks/serve.js</tspan>
+<tspan x="10" y="4650">264.  2017-04-16 09:45:09 +0000     5505 bytes  tasks/serve.js.map</tspan>
+<tspan x="10" y="4666">265.  2017-04-16 09:45:09 +0000       52 bytes  tasks/test.d.ts</tspan>
+<tspan x="10" y="4682">266.  2017-04-16 09:45:09 +0000     1413 bytes  tasks/test.js</tspan>
+<tspan x="10" y="4698">267.  2017-04-16 09:45:09 +0000     1112 bytes  tasks/test.js.map</tspan>
+<tspan x="10" y="4714">268.  2017-04-16 09:45:09 +0000      719 bytes  upgrade/version.d.ts</tspan>
+<tspan x="10" y="4730">269.  2017-04-16 09:45:09 +0000     8482 bytes  upgrade/version.js</tspan>
+<tspan x="10" y="4746">270.  2017-04-16 09:45:09 +0000     5756 bytes  upgrade/version.js.map</tspan>
+<tspan x="10" y="4762">271.  2017-04-16 09:45:09 +0000      377 bytes  utilities/INITIAL_COMMIT_MESSAGE.txt</tspan>
+<tspan x="10" y="4778">272.  2017-04-16 09:45:09 +0000      216 bytes  utilities/ast-utils.d.ts</tspan>
+<tspan x="10" y="4794">273.  2017-04-16 09:45:09 +0000      840 bytes  utilities/ast-utils.js</tspan>
+<tspan x="10" y="4810">274.  2017-04-16 09:45:09 +0000      274 bytes  utilities/ast-utils.js.map</tspan>
+<tspan x="10" y="4826">275.  2017-04-16 09:45:09 +0000      117 bytes  utilities/change.d.ts</tspan>
+<tspan x="10" y="4842">276.  2017-04-16 09:45:09 +0000      405 bytes  utilities/change.js</tspan>
+<tspan x="10" y="4858">277.  2017-04-16 09:45:09 +0000      188 bytes  utilities/change.js.map</tspan>
+<tspan x="10" y="4874">278.  2017-04-16 09:45:09 +0000     3411 bytes  utilities/completion.sh</tspan>
+<tspan x="10" y="4890">279.  2017-04-16 09:45:09 +0000     1923 bytes  utilities/dynamic-path-parser.js</tspan>
+<tspan x="10" y="4906">280.  2017-04-16 09:45:09 +0000       84 bytes  utilities/find-parent-module.d.ts</tspan>
+<tspan x="10" y="4922">281.  2017-04-16 09:45:09 +0000     1463 bytes  utilities/find-parent-module.js</tspan>
+<tspan x="10" y="4938">282.  2017-04-16 09:45:09 +0000     1527 bytes  utilities/find-parent-module.js.map</tspan>
+<tspan x="10" y="4954">283.  2017-04-16 09:45:09 +0000     2633 bytes  utilities/get-dependent-files.d.ts</tspan>
+<tspan x="10" y="4970">284.  2017-04-16 09:45:09 +0000     5564 bytes  utilities/get-dependent-files.js</tspan>
+<tspan x="10" y="4986">285.  2017-04-16 09:45:09 +0000     3813 bytes  utilities/get-dependent-files.js.map</tspan>
+<tspan x="10" y="5002">286.  2017-04-16 09:45:09 +0000     1786 bytes  utilities/module-resolver.d.ts</tspan>
+<tspan x="10" y="5018">287.  2017-04-16 09:45:09 +0000     5422 bytes  utilities/module-resolver.js</tspan>
+<tspan x="10" y="5034">288.  2017-04-16 09:45:09 +0000     3724 bytes  utilities/module-resolver.js.map</tspan>
+<tspan x="10" y="5050">289.  2017-04-16 09:45:09 +0000       93 bytes  utilities/package-chunk-sort.d.ts</tspan>
+<tspan x="10" y="5066">290.  2017-04-16 09:45:09 +0000     1280 bytes  utilities/package-chunk-sort.js</tspan>
+<tspan x="10" y="5082">291.  2017-04-16 09:45:09 +0000     1323 bytes  utilities/package-chunk-sort.js.map</tspan>
+<tspan x="10" y="5098">292.  2017-04-16 09:45:09 +0000      337 bytes  utilities/prerender-webpack-plugin.d.ts</tspan>
+<tspan x="10" y="5114">293.  2017-04-16 09:45:09 +0000     2232 bytes  utilities/prerender-webpack-plugin.js</tspan>
+<tspan x="10" y="5130">294.  2017-04-16 09:45:09 +0000     1636 bytes  utilities/prerender-webpack-plugin.js.map</tspan>
+<tspan x="10" y="5146">295.  2017-04-16 09:45:09 +0000       82 bytes  utilities/require-project-module.d.ts</tspan>
+<tspan x="10" y="5162">296.  2017-04-16 09:45:09 +0000      513 bytes  utilities/require-project-module.js</tspan>
+<tspan x="10" y="5178">297.  2017-04-16 09:45:09 +0000      515 bytes  utilities/require-project-module.js.map</tspan>
+<tspan x="10" y="5194">298.  2017-04-16 09:45:09 +0000      174 bytes  utilities/route-utils.d.ts</tspan>
+<tspan x="10" y="5210">299.  2017-04-16 09:45:09 +0000      716 bytes  utilities/route-utils.js</tspan>
+<tspan x="10" y="5226">300.  2017-04-16 09:45:09 +0000      252 bytes  utilities/route-utils.js.map</tspan>
 </text>
 </svg>
