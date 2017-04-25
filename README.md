@@ -1,7 +1,12 @@
-# api documentation for  [angular-cli (v1.0.0-beta.28.3)](https://github.com/angular/angular-cli)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-cli)
+# npmdoc-angular-cli
+
+#### basic api documentation for  [angular-cli (v1.0.0-beta.28.3)](https://github.com/angular/angular-cli)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular-cli)
+
 #### CLI tool for Angular
 
 [![NPM](https://nodei.co/npm/angular-cli.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular-cli)
+
+- [https://npmdoc.github.io/node-npmdoc-angular-cli/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-angular-cli/build/apidoc.html)
 
 [![apidoc](https://npmdoc.github.io/node-npmdoc-angular-cli/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular-cli/build/apidoc.html)
 
@@ -132,86 +137,6 @@
     "directories": {},
     "deprecated": "angular-cli has been renamed to @angular/cli. Please update your dependencies."
 }
-```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module angular-cli](#apidoc.module.angular-cli)
-1.  [function <span class="apidocSignatureSpan"></span>angular-cli (options)](#apidoc.element.angular-cli.angular-cli)
-1.  [function <span class="apidocSignatureSpan">angular-cli.</span>toString ()](#apidoc.element.angular-cli.toString)
-1.  object <span class="apidocSignatureSpan">angular-cli.</span>completion
-
-#### [module angular-cli.completion](#apidoc.module.angular-cli.completion)
-1.  [function <span class="apidocSignatureSpan">angular-cli.completion.</span>default ()](#apidoc.element.angular-cli.completion.default)
-
-
-
-# <a name="apidoc.module.angular-cli"></a>[module angular-cli](#apidoc.module.angular-cli)
-
-#### <a name="apidoc.element.angular-cli.angular-cli"></a>[function <span class="apidocSignatureSpan"></span>angular-cli (options)](#apidoc.element.angular-cli.angular-cli)
-- description and source-code
-```javascript
-angular-cli = function (options) {
-
-  // patch UI to not print Ember-CLI warnings (which don't apply to Angular-CLI)
-  UI.prototype.writeWarnLine = function () { }
-
-  // patch Watcher to always default to node, not checking for Watchman
-  Watcher.detectWatcher = function(ui, _options){
-    var options = _options || {};
-    options.watcher = 'node';
-    return Promise.resolve(options);
-  }
-
-  options.cli = {
-    name: 'ng',
-    root: path.join(__dirname, '..', '..'),
-    npmPackage: 'angular-cli'
-  };
-
-  // ensure the environemnt variable for dynamic paths
-  process.env.PWD = path.normalize(process.env.PWD || process.cwd());
-  process.env.CLI_ROOT = process.env.CLI_ROOT || path.resolve(__dirname, '..', '..');
-
-  return cli(options);
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.angular-cli.toString"></a>[function <span class="apidocSignatureSpan">angular-cli.</span>toString ()](#apidoc.element.angular-cli.toString)
-- description and source-code
-```javascript
-toString = function () {
-    return toString;
-}
-```
-- example usage
-```shell
-n/a
-```
-
-
-
-# <a name="apidoc.module.angular-cli.completion"></a>[module angular-cli.completion](#apidoc.module.angular-cli.completion)
-
-#### <a name="apidoc.element.angular-cli.completion.default"></a>[function <span class="apidocSignatureSpan">angular-cli.completion.</span>default ()](#apidoc.element.angular-cli.completion.default)
-- description and source-code
-```javascript
-function Class() {
-  constructor.apply(this, arguments);
-  if (this.init) {
-    this.init(options);
-  }
-}
-```
-- example usage
-```shell
-n/a
 ```
 
 
